@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <name>ma-cata routes</name>
+        <Style id="1.0">
+            <LineStyle>
+                <color>ff10c283</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="1.5">
+            <LineStyle>
+                <color>ff195c03</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="2.0">
+            <LineStyle>
+                <color>ffa0ad10</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="2.5">
+            <LineStyle>
+                <color>ffad4902</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="3.0">
+            <LineStyle>
+                <color>ffbf1d7e</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="3.5">
+            <LineStyle>
+                <color>ff6e0cb0</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="4.0">
+            <LineStyle>
+                <color>ff190177</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="10.0">
+            <LineStyle>
+                <color>ff000000</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Placemark>
+            <name>Lanesville</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ma-cata&lt;br/&gt;EDI: 2.43</description>
+            <styleUrl>#2.0</styleUrl>
+            <LineString>
+                <coordinates>-70.61834,42.65696 -70.61739,42.65858 -70.61936,42.65831 -70.62604,42.6563 -70.62453,42.67651 -70.65878,42.67766 -70.67109,42.66154 -70.67995,42.62593 -70.66755,42.61657 -70.65926,42.61353</coordinates>
+            </LineString>
+        </Placemark>
+    </Document>
+</kml>

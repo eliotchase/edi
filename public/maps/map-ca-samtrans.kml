@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <name>ca-samtrans routes</name>
+        <Style id="1.0">
+            <LineStyle>
+                <color>ff10c283</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="1.5">
+            <LineStyle>
+                <color>ff195c03</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="2.0">
+            <LineStyle>
+                <color>ffa0ad10</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="2.5">
+            <LineStyle>
+                <color>ffad4902</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="3.0">
+            <LineStyle>
+                <color>ffbf1d7e</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="3.5">
+            <LineStyle>
+                <color>ff6e0cb0</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="4.0">
+            <LineStyle>
+                <color>ff190177</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="10.0">
+            <LineStyle>
+                <color>ff000000</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Placemark>
+            <name>85: Ormondale School - La Honda / Grandview</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ca-samtrans&lt;br/&gt;EDI: 3.79</description>
+            <styleUrl>#3.5</styleUrl>
+            <LineString>
+                <coordinates>-122.217796,37.381312 -122.215994,37.383539 -122.219209,37.38464 -122.219051,37.375424 -122.215169,37.374553 -122.208772,37.37208 -122.211422,37.367887 -122.208537,37.372095 -122.215484,37.374892 -122.219486,37.375478 -122.224677,37.379265 -122.228961,37.382304 -122.232049,37.383067 -122.234296,37.383944 -122.237656,37.387603 -122.24102,37.391493 -122.244318,37.398351 -122.247583,37.403932 -122.251921,37.40433 -122.269674,37.420219 -122.256211,37.39838 -122.26134,37.392793 -122.263322,37.388365 -122.264585,37.386894</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>120: Brunswick / Templeton - Colma BART</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ca-samtrans&lt;br/&gt;EDI: 3.96</description>
+            <styleUrl>#3.5</styleUrl>
+            <LineString>
+                <coordinates>-122.453043,37.707179 -122.453277,37.708708 -122.457104,37.707404 -122.461502,37.706065 -122.462343,37.705272 -122.468854,37.70622 -122.475953,37.704135 -122.481733,37.701105 -122.483476,37.697631 -122.486269,37.697412 -122.490777,37.697112 -122.491398,37.694583 -122.49102,37.691114 -122.488842,37.688902 -122.487284,37.685676 -122.487173,37.682757 -122.486999,37.678768 -122.483123,37.676035 -122.479872,37.675586 -122.480258,37.67349 -122.480246,37.671014 -122.479686,37.669003 -122.478029,37.669172 -122.474849,37.669331 -122.472119,37.67028 -122.464663,37.671175 -122.466415,37.673362 -122.469602,37.677298 -122.470576,37.682535 -122.466438,37.685025</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>142: SFO - Shelter Creek</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ca-samtrans&lt;br/&gt;EDI: 2.59</description>
+            <styleUrl>#2.5</styleUrl>
+            <LineString>
+                <coordinates>-122.400155,37.627261 -122.409872,37.630905 -122.412958,37.632447 -122.413864,37.634508 -122.41716,37.638816 -122.419046,37.63899 -122.421289,37.636362 -122.41851,37.631619 -122.417311,37.628644 -122.425553,37.625518 -122.42778,37.6222 -122.4269,37.62095 -122.42573,37.61915 -122.424883,37.617609 -122.419868,37.613851</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>250: 5th / El Camino Real - College of San Mateo</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ca-samtrans&lt;br/&gt;EDI: 3.08</description>
+            <styleUrl>#3.0</styleUrl>
+            <LineString>
+                <coordinates>-122.337045,37.533785 -122.332549,37.531649 -122.326769,37.532866 -122.321904,37.529698 -122.304168,37.533781 -122.299696,37.53525 -122.298087,37.537881 -122.29772,37.540266 -122.294822,37.540653 -122.292222,37.542752 -122.290501,37.542075 -122.284425,37.545367 -122.284883,37.543373 -122.283735,37.54448 -122.28548,37.546868 -122.287982,37.549439 -122.290693,37.55332 -122.293488,37.555687 -122.295882,37.558055 -122.299413,37.561871 -122.302019,37.564273 -122.304487,37.566961 -122.306237,37.568567 -122.309963,37.57199 -122.317067,37.569311 -122.318563,37.568257 -122.323858,37.567253 -122.325617,37.565853</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>260: San Carlos Caltrain - Polhemus / De Anza</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ca-samtrans&lt;br/&gt;EDI: 2.03</description>
+            <styleUrl>#2.0</styleUrl>
+            <LineString>
+                <coordinates>-122.258953,37.506411 -122.253754,37.517104 -122.252895,37.522153 -122.252607,37.527779 -122.257886,37.530545 -122.261742,37.528808 -122.263542,37.528744 -122.273314,37.523211 -122.276629,37.519945 -122.277864,37.518311 -122.283276,37.515726 -122.294818,37.512073 -122.304224,37.51164 -122.302926,37.510742</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>278: Redwood City Transit Center - Cañada College</name>
+            <description>Branch: Eastbound&lt;br/&gt;Agency: ca-samtrans&lt;br/&gt;EDI: 2.15</description>
+            <styleUrl>#2.0</styleUrl>
+            <LineString>
+                <coordinates>-122.265122,37.448957 -122.260159,37.447848 -122.259889,37.451534 -122.256357,37.453345 -122.253158,37.454742 -122.248451,37.457846 -122.249917,37.461133 -122.249787,37.463772 -122.249277,37.465014 -122.249619,37.467842 -122.247322,37.469626 -122.245821,37.46662 -122.246081,37.464193 -122.243565,37.461746 -122.240986,37.459128 -122.237778,37.454057 -122.234295,37.450746 -122.231123,37.449335 -122.228968,37.453803 -122.22719,37.457583 -122.225969,37.459753 -122.225372,37.460987 -122.224988,37.462427 -122.224364,37.465197 -122.224012,37.466696 -122.223701,37.468032 -122.223361,37.469513 -122.222936,37.471374 -122.222767,37.477299 -122.225569,37.479312 -122.231384,37.483516 -122.232138,37.485737</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>278: Redwood City Transit Center - Cañada College</name>
+            <description>Branch: Westbound&lt;br/&gt;Agency: ca-samtrans&lt;br/&gt;EDI: 1.5</description>
+            <styleUrl>#1.5</styleUrl>
+            <LineString>
+                <coordinates>-122.265122,37.448957 -122.231123,37.449335 -122.228968,37.453803 -122.22719,37.457583 -122.225969,37.459753 -122.225372,37.460987 -122.224988,37.462427 -122.224364,37.465197 -122.224012,37.466696 -122.223701,37.468032 -122.223361,37.469513 -122.222936,37.471374 -122.222767,37.477299 -122.225569,37.479312 -122.231384,37.483516 -122.232138,37.485737</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>294: San Mateo Medical Center - Main / Poplar</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ca-samtrans&lt;br/&gt;EDI: 1.15</description>
+            <styleUrl>#1.0</styleUrl>
+            <LineString>
+                <coordinates>-122.430008,37.457039 -122.429677,37.460146 -122.429324,37.462447 -122.42895,37.468136 -122.425797,37.469095 -122.417956,37.475873 -122.414234,37.478133 -122.405918,37.480226 -122.388722,37.49086 -122.368676,37.49558 -122.320511,37.545149 -122.316757,37.542253 -122.315009,37.540902 -122.313481,37.539479 -122.311424,37.538115 -122.308055,37.539525 -122.303019,37.541505 -122.299674,37.538596</coordinates>
+            </LineString>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <name>ca-cccta routes</name>
+        <Style id="1.0">
+            <LineStyle>
+                <color>ff10c283</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="1.5">
+            <LineStyle>
+                <color>ff195c03</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="2.0">
+            <LineStyle>
+                <color>ffa0ad10</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="2.5">
+            <LineStyle>
+                <color>ffad4902</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="3.0">
+            <LineStyle>
+                <color>ffbf1d7e</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="3.5">
+            <LineStyle>
+                <color>ff6e0cb0</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="4.0">
+            <LineStyle>
+                <color>ff190177</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="10.0">
+            <LineStyle>
+                <color>ff000000</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Placemark>
+            <name>1: Rossmoor / Shadelands</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ca-cccta&lt;br/&gt;EDI: 1.54</description>
+            <styleUrl>#1.5</styleUrl>
+            <LineString>
+                <coordinates>-122.023927,37.929713 -122.019733,37.932018 -122.01721,37.930132 -122.019018,37.929162 -122.024185,37.926948 -122.023887,37.9251 -122.027702,37.923756 -122.035748,37.92038 -122.040377,37.912265 -122.041728,37.912608 -122.04306,37.91032 -122.046674,37.911325 -122.051842,37.90919 -122.055477,37.908013 -122.057892,37.907211 -122.06803,37.90569 -122.065292,37.903523 -122.064949,37.902493 -122.069882,37.900368 -122.070258,37.897833 -122.072579,37.895149 -122.074312,37.894733 -122.076897,37.893719 -122.080213,37.890817 -122.077957,37.885418 -122.077808,37.88408 -122.073458,37.87721 -122.071372,37.877222 -122.072783,37.878198</coordinates>
+            </LineString>
+        </Placemark>
+    </Document>
+</kml>

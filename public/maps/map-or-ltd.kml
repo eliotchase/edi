@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <name>or-ltd routes</name>
+        <Style id="1.0">
+            <LineStyle>
+                <color>ff10c283</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="1.5">
+            <LineStyle>
+                <color>ff195c03</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="2.0">
+            <LineStyle>
+                <color>ffa0ad10</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="2.5">
+            <LineStyle>
+                <color>ffad4902</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="3.0">
+            <LineStyle>
+                <color>ffbf1d7e</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="3.5">
+            <LineStyle>
+                <color>ff6e0cb0</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="4.0">
+            <LineStyle>
+                <color>ff190177</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="10.0">
+            <LineStyle>
+                <color>ff000000</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Placemark>
+            <name>EmX</name>
+            <description>Branch: Main&lt;br/&gt;Agency: or-ltd&lt;br/&gt;EDI: 1.93</description>
+            <styleUrl>#1.5</styleUrl>
+            <LineString>
+                <coordinates>-123.042747,44.073724 -123.041907,44.077522 -123.041491,44.081801 -123.042024,44.088487 -123.036294,44.088469 -123.030268,44.088362 -123.028051,44.08289 -123.028953,44.079838 -123.030777,44.077884 -123.028675,44.070028 -123.026156,44.06277 -123.024106,44.056919 -123.023222,44.051184 -123.021259,44.04525 -123.021881,44.04553 -123.030958,44.044617 -123.036588,44.045004 -123.043249,44.0453 -123.061329,44.044832 -123.069443,44.046519 -123.077749,44.047766 -123.082545,44.047714 -123.088698,44.047774 -123.093231,44.047774 -123.095733,44.052491 -123.105334,44.053208 -123.112968,44.053214 -123.119013,44.053236 -123.122527,44.053275 -123.123113,44.048031 -123.130509,44.047948 -123.13586,44.047995 -123.141435,44.048045 -123.149071,44.048144 -123.156365,44.048155 -123.162986,44.048131 -123.170537,44.048204</coordinates>
+            </LineString>
+        </Placemark>
+    </Document>
+</kml>

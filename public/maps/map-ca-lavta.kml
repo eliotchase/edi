@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <name>ca-lavta routes</name>
+        <Style id="1.0">
+            <LineStyle>
+                <color>ff10c283</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="1.5">
+            <LineStyle>
+                <color>ff195c03</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="2.0">
+            <LineStyle>
+                <color>ffa0ad10</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="2.5">
+            <LineStyle>
+                <color>ffad4902</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="3.0">
+            <LineStyle>
+                <color>ffbf1d7e</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="3.5">
+            <LineStyle>
+                <color>ff6e0cb0</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="4.0">
+            <LineStyle>
+                <color>ff190177</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="10.0">
+            <LineStyle>
+                <color>ff000000</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Placemark>
+            <name>1: Dublin</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ca-lavta&lt;br/&gt;EDI: 1.66</description>
+            <styleUrl>#1.5</styleUrl>
+            <LineString>
+                <coordinates>-121.899348,37.702604 -121.896326,37.706148 -121.891779,37.706149 -121.887823,37.706938 -121.88786,37.71081 -121.888053,37.715163 -121.883315,37.715789 -121.887969,37.716031</coordinates>
+            </LineString>
+        </Placemark>
+    </Document>
+</kml>

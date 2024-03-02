@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <name>ma-frta routes</name>
+        <Style id="1.0">
+            <LineStyle>
+                <color>ff10c283</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="1.5">
+            <LineStyle>
+                <color>ff195c03</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="2.0">
+            <LineStyle>
+                <color>ffa0ad10</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="2.5">
+            <LineStyle>
+                <color>ffad4902</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="3.0">
+            <LineStyle>
+                <color>ffbf1d7e</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="3.5">
+            <LineStyle>
+                <color>ff6e0cb0</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="4.0">
+            <LineStyle>
+                <color>ff190177</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="10.0">
+            <LineStyle>
+                <color>ff000000</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Placemark>
+            <name>23: Sunderland / Greenfield</name>
+            <description>Branch: via Millers Falls&lt;br/&gt;Agency: ma-frta&lt;br/&gt;EDI: 1.86</description>
+            <styleUrl>#1.5</styleUrl>
+            <LineString>
+                <coordinates>-72.600632,42.585745 -72.597534,42.587337 -72.594104,42.590755 -72.59204,42.594903 -72.588434,42.598232 -72.584602,42.60149 -72.579752,42.604403 -72.575062,42.606832 -72.556395,42.60802 -72.551428,42.59977 -72.540027,42.58983 -72.528365,42.589683 -72.509363,42.579401 -72.500329,42.576967 -72.494716,42.578688 -72.532073,42.532889 -72.58131,42.457829</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>23: Sunderland / Greenfield</name>
+            <description>Branch: via Turners Falls&lt;br/&gt;Agency: ma-frta&lt;br/&gt;EDI: 1.59</description>
+            <styleUrl>#1.5</styleUrl>
+            <LineString>
+                <coordinates>-72.58131,42.457829 -72.532073,42.532889 -72.555752,42.588788 -72.559652,42.599232 -72.557779,42.604259 -72.555484,42.606479 -72.556395,42.60802 -72.575062,42.606832 -72.578502,42.605403 -72.585788,42.60063 -72.588434,42.598232 -72.59204,42.594903 -72.594842,42.589646 -72.598341,42.587704 -72.600632,42.585745</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>24: Crosstown Connector</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ma-frta&lt;br/&gt;EDI: 1.71</description>
+            <styleUrl>#1.5</styleUrl>
+            <LineString>
+                <coordinates>-72.630279,42.599867 -72.620416,42.591352 -72.623489,42.587288 -72.60601,42.587375 -72.603246,42.587719 -72.600632,42.585745 -72.597534,42.587337 -72.594104,42.590755 -72.59204,42.594903 -72.588434,42.598232 -72.584602,42.60149 -72.579752,42.604403 -72.575062,42.606832 -72.556627,42.608524 -72.5609,42.604502 -72.563369,42.602119</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>31: Northampton / Greenfield</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ma-frta&lt;br/&gt;EDI: 1.1</description>
+            <styleUrl>#1.0</styleUrl>
+            <LineString>
+                <coordinates>-72.600632,42.585745 -72.599335,42.580691 -72.598348,42.577949 -72.594387,42.571917 -72.59978,42.552441 -72.605387,42.510223 -72.610292,42.494421 -72.612415,42.477418 -72.607003,42.476307 -72.602202,42.47294 -72.596992,42.469248 -72.60604,42.467666 -72.615311,42.469898 -72.62579,42.444452 -72.622127,42.423289 -72.62174,42.416045 -72.622901,42.411666 -72.62554,42.401769 -72.631639,42.394923 -72.633243,42.389803 -72.637425,42.367538 -72.64058,42.354905 -72.641127,42.341712 -72.635995,42.334297 -72.634484,42.331228 -72.634441,42.32001 -72.633408,42.31766</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>31: Northampton / Greenfield</name>
+            <description>Branch: via Pelican Products&lt;br/&gt;Agency: ma-frta&lt;br/&gt;EDI: 1.18</description>
+            <styleUrl>#1.0</styleUrl>
+            <LineString>
+                <coordinates>-72.600632,42.585745 -72.599335,42.580691 -72.598348,42.577949 -72.594387,42.571917 -72.59978,42.552441 -72.605387,42.510223 -72.610292,42.494421 -72.612415,42.477418 -72.607685,42.477727 -72.604536,42.484063 -72.607243,42.48747 -72.608011,42.477815 -72.607003,42.476307 -72.602202,42.47294 -72.596992,42.469248 -72.60604,42.467666 -72.615311,42.469898 -72.62579,42.444452 -72.622127,42.423289 -72.62174,42.416045 -72.622901,42.411666 -72.62554,42.401769 -72.631639,42.394923 -72.633243,42.389803 -72.637425,42.367538 -72.64058,42.354905 -72.641127,42.341712 -72.635995,42.334297 -72.634484,42.331228 -72.634441,42.32001 -72.633408,42.31766</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>32: Orange / Greenfield</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ma-frta&lt;br/&gt;EDI: 1.15</description>
+            <styleUrl>#1.0</styleUrl>
+            <LineString>
+                <coordinates>-72.600632,42.585745 -72.575848,42.586349 -72.560783,42.604156 -72.556395,42.60802 -72.551428,42.59977 -72.540027,42.58983 -72.528365,42.589683 -72.509363,42.579401 -72.500329,42.576967 -72.494716,42.578688 -72.489328,42.586423 -72.399849,42.599516 -72.330021,42.592253 -72.30893,42.588614 -72.301664,42.585864 -72.290683,42.582899 -72.286069,42.57855 -72.26271,42.582927</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>41: Charlemont / Greenfield</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ma-frta&lt;br/&gt;EDI: 1.2</description>
+            <styleUrl>#1.0</styleUrl>
+            <LineString>
+                <coordinates>-72.600632,42.585745 -72.604908,42.587724 -72.608391,42.587347 -72.630279,42.599867 -72.620416,42.591352 -72.623489,42.587288 -72.737987,42.603848 -72.756026,42.615963 -72.74899,42.619392 -72.825337,42.618846 -72.869695,42.628084 -72.876935,42.627467</coordinates>
+            </LineString>
+        </Placemark>
+    </Document>
+</kml>

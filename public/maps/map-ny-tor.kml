@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <name>ny-tor routes</name>
+        <Style id="1.0">
+            <LineStyle>
+                <color>ff10c283</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="1.5">
+            <LineStyle>
+                <color>ff195c03</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="2.0">
+            <LineStyle>
+                <color>ffa0ad10</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="2.5">
+            <LineStyle>
+                <color>ffad4902</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="3.0">
+            <LineStyle>
+                <color>ffbf1d7e</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="3.5">
+            <LineStyle>
+                <color>ff6e0cb0</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="4.0">
+            <LineStyle>
+                <color>ff190177</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="10.0">
+            <LineStyle>
+                <color>ff000000</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Placemark>
+            <name>91: Nyack - Spring Valley</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ny-tor&lt;br/&gt;EDI: 3.98</description>
+            <styleUrl>#3.5</styleUrl>
+            <LineString>
+                <coordinates>-74.043822,41.111615 -74.041075,41.1276 -74.034644,41.142435 -73.99113,41.148043 -74.034644,41.142435 -74.04216,41.156961 -74.036023,41.18609 -74.009364,41.198711 -73.98822,41.213889 -74.009364,41.198711 -73.966309,41.196464 -73.934462,41.146593 -73.941772,41.11874 -73.952641,41.096058 -73.946696,41.092945 -73.92165,41.090739</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>92: Spring Valley - Nyack</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ny-tor&lt;br/&gt;EDI: 2.21</description>
+            <styleUrl>#2.0</styleUrl>
+            <LineString>
+                <coordinates>-74.043822,41.111615 -74.056005,41.084463 -74.02191,41.058938 -74.006933,41.048908 -73.983464,41.035318 -73.968594,41.049237 -73.95041,41.046245 -73.949037,41.064068 -73.952641,41.096058 -73.946696,41.092945 -73.92165,41.090739</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>Loop 3: Suffern / Chestnut St - Spring Valley</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ny-tor&lt;br/&gt;EDI: 1.76</description>
+            <styleUrl>#1.5</styleUrl>
+            <LineString>
+                <coordinates>-74.152039,41.116321 -74.140242,41.113689 -74.137108,41.112408 -74.128481,41.107425 -74.137108,41.112408 -74.113356,41.110105 -74.114935,41.114708 -74.107228,41.112992 -74.103433,41.115488 -74.085751,41.132944 -74.082991,41.10904 -74.054875,41.100453 -74.043822,41.111615</coordinates>
+            </LineString>
+        </Placemark>
+    </Document>
+</kml>

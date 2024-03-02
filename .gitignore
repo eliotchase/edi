@@ -1,1 +1,12 @@
 .vercel
+
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+.gradle
+build/
+!gradle-wrapper.jar
+!gradle-wrapper.properties

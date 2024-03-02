@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <name>fr-tan routes</name>
+        <Style id="1.0">
+            <LineStyle>
+                <color>ff10c283</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="1.5">
+            <LineStyle>
+                <color>ff195c03</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="2.0">
+            <LineStyle>
+                <color>ffa0ad10</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="2.5">
+            <LineStyle>
+                <color>ffad4902</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="3.0">
+            <LineStyle>
+                <color>ffbf1d7e</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="3.5">
+            <LineStyle>
+                <color>ff6e0cb0</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="4.0">
+            <LineStyle>
+                <color>ff190177</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="10.0">
+            <LineStyle>
+                <color>ff000000</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Placemark>
+            <name>66: Babinière - Ecole Centrale-Audencia</name>
+            <description>Branch: Main&lt;br/&gt;Agency: fr-tan&lt;br/&gt;EDI: 1.9</description>
+            <styleUrl>#1.5</styleUrl>
+            <LineString>
+                <coordinates>-1.551005,47.248776 -1.549921,47.252055 -1.553041,47.25312 -1.5572,47.259375 -1.553339,47.260856 -1.546207,47.259205</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>81: Mendès France - Bellevue - Gare Maritime</name>
+            <description>Branch: Main&lt;br/&gt;Agency: fr-tan&lt;br/&gt;EDI: 5.26</description>
+            <styleUrl>#4.0</styleUrl>
+            <LineString>
+                <coordinates>-1.573349,47.20704 -1.575031,47.204731 -1.580226,47.199871 -1.583594,47.198946 -1.589223,47.198214 -1.59356,47.197886 -1.60046,47.198281 -1.606953,47.198509 -1.612345,47.199945 -1.615639,47.198031 -1.618288,47.196319 -1.620402,47.194535 -1.627158,47.194753 -1.631929,47.194949 -1.634941,47.194575 -1.639666,47.194142 -1.646533,47.194085 -1.649803,47.195413 -1.653409,47.195918 -1.662783,47.197575 -1.666275,47.196553 -1.66957,47.196438 -1.672716,47.19786 -1.67546,47.199206 -1.678633,47.200987 -1.674263,47.200869 -1.67113,47.199627 -1.668304,47.200716 -1.664071,47.204196 -1.662543,47.204969 -1.657915,47.20495 -1.655531,47.206654 -1.651554,47.210034 -1.647022,47.207759 -1.644129,47.207949 -1.641902,47.210007 -1.639499,47.213243 -1.624769,47.210688 -1.617524,47.211027 -1.614926,47.209855 -1.611287,47.208899</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>109</name>
+            <description>Branch: Main&lt;br/&gt;Agency: fr-tan&lt;br/&gt;EDI: 1.85</description>
+            <styleUrl>#1.5</styleUrl>
+            <LineString>
+                <coordinates>-1.591604,47.243257 -1.589322,47.246397 -1.586914,47.249631 -1.577315,47.248606 -1.576787,47.250426 -1.576298,47.252784 -1.576825,47.254567 -1.578659,47.256126 -1.581252,47.255408 -1.583872,47.25685 -1.581885,47.258629 -1.584485,47.261603 -1.588272,47.260934 -1.594508,47.262973 -1.596976,47.26415 -1.600349,47.266827 -1.59534,47.267088 -1.592489,47.269707 -1.594166,47.272712</coordinates>
+            </LineString>
+        </Placemark>
+    </Document>
+</kml>

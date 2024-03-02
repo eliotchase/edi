@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <name>ca-marin routes</name>
+        <Style id="1.0">
+            <LineStyle>
+                <color>ff10c283</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="1.5">
+            <LineStyle>
+                <color>ff195c03</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="2.0">
+            <LineStyle>
+                <color>ffa0ad10</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="2.5">
+            <LineStyle>
+                <color>ffad4902</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="3.0">
+            <LineStyle>
+                <color>ffbf1d7e</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="3.5">
+            <LineStyle>
+                <color>ff6e0cb0</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="4.0">
+            <LineStyle>
+                <color>ff190177</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="10.0">
+            <LineStyle>
+                <color>ff000000</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Placemark>
+            <name>17: Downtown San Rafael - Sausalito</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ca-marin&lt;br/&gt;EDI: 1.43</description>
+            <styleUrl>#1.0</styleUrl>
+            <LineString>
+                <coordinates>-122.480469,37.857136 -122.483241,37.858565 -122.485967,37.859704 -122.489819,37.861524 -122.49361,37.861978 -122.499217,37.865472 -122.50233,37.868438 -122.503827,37.871113 -122.511571,37.8723 -122.515221,37.879671 -122.524565,37.881612 -122.524643,37.883864 -122.524734,37.887566 -122.531458,37.893722 -122.534453,37.895538 -122.538039,37.898592 -122.541506,37.901627 -122.547396,37.905671 -122.527622,37.900242 -122.519193,37.903475 -122.513809,37.925287 -122.516101,37.938685 -122.522385,37.97087</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>22: Downtown San Rafael - Marin City</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ca-marin&lt;br/&gt;EDI: 1.87</description>
+            <styleUrl>#1.5</styleUrl>
+            <LineString>
+                <coordinates>-122.511571,37.8723 -122.516364,37.888662 -122.513786,37.902489 -122.514938,37.900894 -122.513275,37.898609 -122.514313,37.897804 -122.516205,37.88913 -122.515412,37.901957 -122.514053,37.926266 -122.518959,37.925266 -122.523781,37.925507 -122.529625,37.926449 -122.53392,37.92947 -122.535934,37.932655 -122.53508,37.936222 -122.54071,37.943386 -122.542938,37.945011 -122.546364,37.94696 -122.548943,37.948391 -122.549591,37.950897 -122.548241,37.954727 -122.548727,37.956626 -122.55291,37.959709 -122.555855,37.962734 -122.560486,37.969749 -122.561523,37.972816 -122.561607,37.975494 -122.554189,37.976394 -122.550183,37.976134 -122.544204,37.974867 -122.538222,37.974083 -122.533046,37.973572 -122.530535,37.973362 -122.527,37.972973 -122.52285,37.971132</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>23: Canal – Fairfax Manor</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ca-marin&lt;br/&gt;EDI: 1.17</description>
+            <styleUrl>#1.0</styleUrl>
+            <LineString>
+                <coordinates>-122.604134,38.000221 -122.600449,37.999081 -122.599068,37.99704 -122.596703,37.995659 -122.594208,37.993378 -122.591644,37.989788 -122.588791,37.987301 -122.580917,37.986561 -122.576797,37.986454 -122.574287,37.985386 -122.568779,37.982178 -122.566727,37.980919 -122.564331,37.97879 -122.562841,37.976546 -122.554189,37.976394 -122.550183,37.976134 -122.544204,37.974867 -122.538222,37.974083 -122.533046,37.973572 -122.530535,37.973362 -122.527,37.972973 -122.522417,37.971249 -122.519966,37.970295 -122.510101,37.9631 -122.508064,37.965206 -122.505898,37.965794 -122.503113,37.967022 -122.49971,37.96788 -122.501518,37.964436 -122.50219,37.962448 -122.503542,37.96121 -122.490639,37.953232</coordinates>
+            </LineString>
+        </Placemark>
+    </Document>
+</kml>

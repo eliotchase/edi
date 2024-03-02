@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <name>ga-marta routes</name>
+        <Style id="1.0">
+            <LineStyle>
+                <color>ff10c283</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="1.5">
+            <LineStyle>
+                <color>ff195c03</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="2.0">
+            <LineStyle>
+                <color>ffa0ad10</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="2.5">
+            <LineStyle>
+                <color>ffad4902</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="3.0">
+            <LineStyle>
+                <color>ffbf1d7e</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="3.5">
+            <LineStyle>
+                <color>ff6e0cb0</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="4.0">
+            <LineStyle>
+                <color>ff190177</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="10.0">
+            <LineStyle>
+                <color>ff000000</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Placemark>
+            <name>Red Line</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ga-marta&lt;br/&gt;EDI: 1.04</description>
+            <styleUrl>#1.0</styleUrl>
+            <LineString>
+                <coordinates>-84.469302,33.754553 -84.445329,33.753328 -84.41723,33.756478 -84.403902,33.756613 -84.397215,33.756179 -84.391397,33.753837 -84.385882,33.750143 -84.375675,33.749951 -84.352762,33.757451 -84.340456,33.761866 -84.312937,33.765241 -84.295319,33.774681 -84.281487,33.775554 -84.251607,33.772647 -84.228906,33.769856</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>Gold Line</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ga-marta&lt;br/&gt;EDI: 1.05</description>
+            <styleUrl>#1.0</styleUrl>
+            <LineString>
+                <coordinates>-84.446198,33.640831 -84.448656,33.650577 -84.440542,33.677424 -84.428768,33.70088 -84.42503,33.7173 -84.413653,33.736564 -84.395545,33.748938 -84.391452,33.754052 -84.387596,33.758189 -84.387504,33.766236 -84.387204,33.771741 -84.386353,33.781355 -84.387414,33.789669 -84.369324,33.823492 -84.358235,33.845388 -84.339245,33.860329 -84.305556,33.887929 -84.28061,33.902787</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>Green Line</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ga-marta&lt;br/&gt;EDI: 1.11</description>
+            <styleUrl>#1.0</styleUrl>
+            <LineString>
+                <coordinates>-84.428873,33.772159 -84.41723,33.756478 -84.403902,33.756613 -84.397215,33.756179 -84.391397,33.753837 -84.385882,33.750143 -84.375675,33.749951</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>Red Line</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ga-marta&lt;br/&gt;EDI: 1.05</description>
+            <styleUrl>#1.0</styleUrl>
+            <LineString>
+                <coordinates>-84.446198,33.640831 -84.448656,33.650577 -84.440542,33.677424 -84.428768,33.70088 -84.42503,33.7173 -84.413653,33.736564 -84.395545,33.748938 -84.391452,33.754052 -84.387596,33.758189 -84.387504,33.766236 -84.387204,33.771741 -84.386353,33.781355 -84.387414,33.789669 -84.369324,33.823492 -84.367716,33.847944 -84.351759,33.910739 -84.344268,33.92113 -84.351069,33.931671 -84.357275,33.94495</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>1: Marietta Blvd / Joseph E Lowery Blvd</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ga-marta&lt;br/&gt;EDI: 1.12</description>
+            <styleUrl>#1.0</styleUrl>
+            <LineString>
+                <coordinates>-84.452113,33.820737 -84.449893,33.820318 -84.44766,33.818389 -84.446824,33.816713 -84.443486,33.815322 -84.439754,33.813256 -84.438824,33.810494 -84.437457,33.805501 -84.43631,33.802226 -84.435491,33.800293 -84.434183,33.798272 -84.432112,33.794935 -84.430271,33.791786 -84.426788,33.785946 -84.424187,33.785328 -84.421493,33.785076 -84.417833,33.783371 -84.417391,33.779559 -84.417408,33.774334 -84.417447,33.771989 -84.417431,33.770083 -84.417481,33.766449 -84.417543,33.762968 -84.417529,33.760434 -84.417569,33.75808 -84.417724,33.756281 -84.4176,33.752569 -84.417762,33.751251 -84.417604,33.750004 -84.417594,33.749212 -84.417803,33.746685 -84.417784,33.745587 -84.417606,33.743024 -84.417743,33.739363 -84.415785,33.738201 -84.413155,33.738185 -84.413542,33.735899</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>867: Peyton Forest / Dixie Hills</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ga-marta&lt;br/&gt;EDI: 29.95</description>
+            <styleUrl>#10.0</styleUrl>
+            <LineString>
+                <coordinates>-84.469058,33.754259 -84.469668,33.752718 -84.472355,33.753583 -84.476135,33.754337 -84.478597,33.754443 -84.482234,33.751878 -84.482536,33.750848 -84.483692,33.747248 -84.482034,33.744476 -84.478936,33.744373 -84.478188,33.745857 -84.476779,33.747481 -84.473933,33.74864 -84.474782,33.749328 -84.475959,33.751036 -84.47626,33.75264 -84.476291,33.75399 -84.473551,33.753734 -84.472257,33.753458 -84.46672,33.751728 -84.464395,33.75217 -84.462116,33.751932 -84.458543,33.750621 -84.456923,33.750272 -84.454711,33.749842 -84.452094,33.750025 -84.445906,33.75232 -84.445389,33.752833 -84.445982,33.75373 -84.445918,33.754777 -84.447451,33.755152 -84.448734,33.75515 -84.449269,33.75617 -84.45012,33.758201 -84.451004,33.760133 -84.453227,33.761168 -84.455289,33.761167 -84.457039,33.760288 -84.458822,33.760841 -84.460495,33.760975 -84.461943,33.761023 -84.46373,33.760784 -84.464996,33.760046 -84.466406,33.758209 -84.465803,33.755587</coordinates>
+            </LineString>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,10 @@
+{
+  "cleanUrls": true,
+  "framework": null,
+  "redirects": [
+    {
+      "source": "/legacy.html",
+      "destination": "https://www.replit.com/@benchase/edicalc"
+    }
+  ]
+}

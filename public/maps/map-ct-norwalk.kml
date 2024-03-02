@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <name>ct-norwalk routes</name>
+        <Style id="1.0">
+            <LineStyle>
+                <color>ff10c283</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="1.5">
+            <LineStyle>
+                <color>ff195c03</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="2.0">
+            <LineStyle>
+                <color>ffa0ad10</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="2.5">
+            <LineStyle>
+                <color>ffad4902</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="3.0">
+            <LineStyle>
+                <color>ffbf1d7e</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="3.5">
+            <LineStyle>
+                <color>ff6e0cb0</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="4.0">
+            <LineStyle>
+                <color>ff190177</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="10.0">
+            <LineStyle>
+                <color>ff000000</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Placemark>
+            <name>1: Riverside Cemetery / N. Taylor Ave</name>
+            <description>Branch: Inbound&lt;br/&gt;Agency: ct-norwalk&lt;br/&gt;EDI: 2.99</description>
+            <styleUrl>#2.5</styleUrl>
+            <LineString>
+                <coordinates>-73.430939,41.125965 -73.440895,41.12344 -73.438454,41.117882 -73.439247,41.113674 -73.433983,41.110008 -73.421478,41.110332 -73.419899,41.115341 -73.414993,41.118259</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>1: Riverside Cemetery / N. Taylor Ave</name>
+            <description>Branch: Outbound&lt;br/&gt;Agency: ct-norwalk&lt;br/&gt;EDI: 2.63</description>
+            <styleUrl>#2.5</styleUrl>
+            <LineString>
+                <coordinates>-73.414993,41.118259 -73.420044,41.115269 -73.421478,41.110332 -73.433044,41.118656 -73.440895,41.12344 -73.430939,41.125965</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>3: The Curb / Merritt 7</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ct-norwalk&lt;br/&gt;EDI: 1.15</description>
+            <styleUrl>#1.0</styleUrl>
+            <LineString>
+                <coordinates>-73.42408,41.154732 -73.425072,41.151302 -73.425636,41.149864 -73.42614,41.148159 -73.426392,41.146221 -73.426338,41.145134 -73.425842,41.1408 -73.426025,41.140202 -73.426224,41.139301 -73.424797,41.136044 -73.424194,41.133274 -73.423866,41.132187 -73.422989,41.129978 -73.420822,41.130268 -73.413956,41.127167 -73.414604,41.126186 -73.416016,41.124073 -73.415688,41.123131 -73.41452,41.121933 -73.414993,41.118259</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>4: Wilson Center / Route 7</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ct-norwalk&lt;br/&gt;EDI: 1.09</description>
+            <styleUrl>#1.0</styleUrl>
+            <LineString>
+                <coordinates>-73.427643,41.190941 -73.419144,41.183731 -73.416374,41.168388 -73.421539,41.15992 -73.421646,41.158836 -73.4161,41.137665 -73.414169,41.134602 -73.408669,41.12138 -73.414993,41.118259</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>7: Calf Pasture Beach / East Norwalk</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ct-norwalk&lt;br/&gt;EDI: 1.82</description>
+            <styleUrl>#1.5</styleUrl>
+            <LineString>
+                <coordinates>-73.414993,41.118259 -73.413795,41.117458 -73.402901,41.122829 -73.401093,41.123539 -73.396774,41.124538 -73.391212,41.125629 -73.391602,41.121693 -73.392197,41.120613 -73.395187,41.117512 -73.404587,41.104206 -73.404175,41.103031 -73.396652,41.093792 -73.394119,41.087593</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>9: South Norwalk</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ct-norwalk&lt;br/&gt;EDI: 1.25</description>
+            <styleUrl>#1.0</styleUrl>
+            <LineString>
+                <coordinates>-73.414993,41.118259 -73.420609,41.110508 -73.428909,41.105038 -73.421165,41.096634 -73.416893,41.09148</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>10: Wilson Ave / South Norwalk</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ct-norwalk&lt;br/&gt;EDI: 1.05</description>
+            <styleUrl>#1.0</styleUrl>
+            <LineString>
+                <coordinates>-73.414993,41.118259 -73.414841,41.116196 -73.415222,41.114368 -73.415848,41.112923 -73.416771,41.111507 -73.417061,41.111168 -73.419785,41.104263 -73.419952,41.102787 -73.421677,41.100342 -73.422569,41.09819 -73.421692,41.096615 -73.421165,41.096634 -73.423714,41.093338 -73.423302,41.091969 -73.42337,41.090096 -73.423828,41.088924 -73.42424,41.087486 -73.425926,41.085999 -73.426331,41.08466 -73.427391,41.08358 -73.42791,41.081451 -73.427422,41.079174 -73.426941,41.078068</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>11: South Norwalk / East Norwalk / Norwalk CC</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ct-norwalk&lt;br/&gt;EDI: 2.33</description>
+            <styleUrl>#2.0</styleUrl>
+            <LineString>
+                <coordinates>-73.414993,41.118259 -73.413795,41.117458 -73.407677,41.113052 -73.406181,41.108559 -73.40509,41.105728 -73.404587,41.104206 -73.407898,41.101326 -73.411057,41.100788 -73.411469,41.100109 -73.417694,41.098965 -73.418907,41.098545 -73.419052,41.096764 -73.421165,41.096634 -73.423714,41.093338 -73.424721,41.092983 -73.425774,41.093884 -73.425842,41.095055 -73.427048,41.098202 -73.429283,41.100758 -73.435944,41.102547 -73.437828,41.101826 -73.441071,41.100346 -73.443741,41.098408 -73.446754,41.096554 -73.449493,41.094975 -73.451073,41.094662 -73.450714,41.102161</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>13: Norwalk CC / Route 1</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ct-norwalk&lt;br/&gt;EDI: 1.47</description>
+            <styleUrl>#1.0</styleUrl>
+            <LineString>
+                <coordinates>-73.414993,41.118259 -73.420044,41.115269 -73.419563,41.111572 -73.422066,41.107475 -73.423431,41.107071 -73.425858,41.106358 -73.43232,41.104168 -73.435944,41.102547 -73.437828,41.101826 -73.441071,41.100346 -73.443741,41.098408 -73.446754,41.096554 -73.449493,41.094975 -73.451073,41.094662 -73.450714,41.102161</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>10-20 Westport Rd Shuttle</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ct-norwalk&lt;br/&gt;EDI: 1.05</description>
+            <styleUrl>#1.0</styleUrl>
+            <LineString>
+                <coordinates>-73.421165,41.096634 -73.423721,41.15514 -73.421539,41.15992 -73.416374,41.168388 -73.41227,41.18021 -73.420593,41.185055</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>Conn Ave Shuttle</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ct-norwalk&lt;br/&gt;EDI: 2.81</description>
+            <styleUrl>#2.5</styleUrl>
+            <LineString>
+                <coordinates>-73.451271,41.101311 -73.451073,41.094662 -73.449493,41.094975 -73.443741,41.098408 -73.441071,41.100346 -73.425858,41.106358 -73.419716,41.11174 -73.420044,41.115269 -73.414993,41.118259 -73.417145,41.11121 -73.419952,41.102787 -73.421165,41.096634 -73.426331,41.084663 -73.42305,41.080044</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>Main Ave Shuttle</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ct-norwalk&lt;br/&gt;EDI: 1.11</description>
+            <styleUrl>#1.0</styleUrl>
+            <LineString>
+                <coordinates>-73.415794,41.082706 -73.415924,41.089848 -73.416786,41.091499 -73.414818,41.092098 -73.415977,41.097343 -73.418831,41.099098 -73.419922,41.103474 -73.417557,41.110573 -73.415207,41.114365 -73.414993,41.118259 -73.413177,41.121403 -73.421394,41.126736 -73.423584,41.131721 -73.423134,41.133343 -73.426071,41.138882 -73.425774,41.140511 -73.427498,41.143433 -73.426102,41.14817 -73.423721,41.15514 -73.419411,41.159199</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>Merrit 7 Commuter Shuttle</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ct-norwalk&lt;br/&gt;EDI: 1.48</description>
+            <styleUrl>#1.0</styleUrl>
+            <LineString>
+                <coordinates>-73.421165,41.096634 -73.42408,41.154732 -73.425171,41.150967 -73.425636,41.149864 -73.42614,41.148159 -73.426392,41.146248 -73.425888,41.143581</coordinates>
+            </LineString>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <name>ma-nrta routes</name>
+        <Style id="1.0">
+            <LineStyle>
+                <color>ff10c283</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="1.5">
+            <LineStyle>
+                <color>ff195c03</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="2.0">
+            <LineStyle>
+                <color>ffa0ad10</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="2.5">
+            <LineStyle>
+                <color>ffad4902</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="3.0">
+            <LineStyle>
+                <color>ffbf1d7e</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="3.5">
+            <LineStyle>
+                <color>ff6e0cb0</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="4.0">
+            <LineStyle>
+                <color>ff190177</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="10.0">
+            <LineStyle>
+                <color>ff000000</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Placemark>
+            <name>Airport Route</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ma-nrta&lt;br/&gt;EDI: 1.1</description>
+            <styleUrl>#1.0</styleUrl>
+            <LineString>
+                <coordinates>-70.09756,41.28315 -70.09506,41.27931 -70.09458,41.27633 -70.0923,41.27435 -70.09067,41.27333 -70.08815,41.27069 -70.087,41.268 -70.08424,41.2677 -70.08274,41.2669 -70.07782,41.2642 -70.07586,41.26316 -70.07185,41.26201 -70.06908,41.2615 -70.06655,41.26123 -70.06491,41.26107 -70.06397,41.25744</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>Jetties Beach Route</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ma-nrta&lt;br/&gt;EDI: 1.27</description>
+            <styleUrl>#1.0</styleUrl>
+            <LineString>
+                <coordinates>-70.09861,41.28543 -70.10127,41.28743 -70.09896,41.28824 -70.10133,41.28986 -70.1041782372603,41.2917872088604 -70.1053029424994,41.2925385928375 -70.10493,41.29553</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>Madaket Route</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ma-nrta&lt;br/&gt;EDI: 1.18</description>
+            <styleUrl>#1.0</styleUrl>
+            <LineString>
+                <coordinates>-70.09861,41.28543 -70.10127,41.28743 -70.107841292569,41.290576568824 -70.10789,41.2869 -70.10879,41.28671 -70.10922,41.28501 -70.10965,41.28341 -70.10966,41.28151 -70.11249,41.28144 -70.11383,41.28149 -70.11966,41.28234 -70.12882,41.28296 -70.14147,41.28406 -70.14532,41.28192 -70.167103930399,41.283128953838 -70.17489,41.28371 -70.17654,41.28157 -70.17911,41.27921 -70.1871,41.27733 -70.19152,41.27578 -70.19394,41.27442 -70.19625,41.27318 -70.20033,41.27148</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>Sconset Route</name>
+            <description>Branch: via Milestone Road&lt;br/&gt;Agency: ma-nrta&lt;br/&gt;EDI: 1.06</description>
+            <styleUrl>#1.0</styleUrl>
+            <LineString>
+                <coordinates>-70.09756,41.28315 -70.09506,41.27931 -70.09458,41.27633 -70.0923,41.27435 -70.09067,41.27333 -70.08737,41.27097 -70.08539,41.27106 -70.07085,41.27074 -70.06652,41.27011 -70.05875,41.269 -70.0572,41.26876 -70.04587,41.26712 -70.03911,41.26613 -70.01146,41.26223 -69.9957,41.26231 -69.98486,41.26228 -69.97308,41.26209 -69.96888,41.26202 -69.96822,41.26199 -69.96498,41.26208</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>Sconset Route</name>
+            <description>Branch: via Old South Road&lt;br/&gt;Agency: ma-nrta&lt;br/&gt;EDI: 1.15</description>
+            <styleUrl>#1.0</styleUrl>
+            <LineString>
+                <coordinates>-70.09756,41.28315 -70.09506,41.27931 -70.09458,41.27633 -70.0923,41.27435 -70.09067,41.27333 -70.08815,41.27069 -70.087,41.268 -70.08424,41.2677 -70.08274,41.2669 -70.07782,41.2642 -70.07586,41.26316 -70.07185,41.26201 -70.06908,41.2615 -70.06655,41.26123 -70.06491,41.26107 -70.06458,41.26112 -70.06167,41.26193 -70.06097,41.26385 -70.06044,41.26534 -70.0598,41.26703 -70.05875,41.269 -70.0572,41.26876 -70.04587,41.26712 -70.03911,41.26613 -70.01146,41.26223 -69.9957,41.26231 -69.98486,41.26228 -69.97308,41.26209 -69.96888,41.26202 -69.96822,41.26199 -69.96498,41.26208</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>Sconset Route</name>
+            <description>Branch: via Polpis Road&lt;br/&gt;Agency: ma-nrta&lt;br/&gt;EDI: 1.43</description>
+            <styleUrl>#1.0</styleUrl>
+            <LineString>
+                <coordinates>-70.09756,41.28315 -70.09506,41.27931 -70.09458,41.27633 -70.0923,41.27435 -70.09067,41.27333 -70.08737,41.27097 -70.08539,41.27106 -70.08095,41.27191 -70.07098,41.2775 -70.06487,41.28151 -70.05949,41.2846 -70.05126,41.28831 -70.04439,41.29047 -70.03905,41.29038 -70.0329,41.29111 -70.02828,41.29136 -70.02186,41.29241 -70.01938,41.29435 -70.00886,41.29948 -70.00149,41.30085 -69.99673,41.2949 -69.97452,41.28482 -69.96647,41.2801 -69.96398,41.27578 -69.96398,41.27141 -69.96398,41.26911 -69.96402,41.26726 -69.96405,41.26545 -69.96695,41.26555 -69.96781,41.26336 -69.96822,41.26199 -69.96498,41.26208</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>Surfside Beach Route</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ma-nrta&lt;br/&gt;EDI: 1.15</description>
+            <styleUrl>#1.0</styleUrl>
+            <LineString>
+                <coordinates>-70.09756,41.28315 -70.09506,41.27931 -70.09458,41.27633 -70.0923,41.27435 -70.09067,41.27333 -70.08815,41.27069 -70.08785,41.26851 -70.08997,41.2665 -70.09097,41.26557 -70.09337,41.26326 -70.09734,41.25948 -70.09358,41.2561 -70.09417,41.25082 -70.09493,41.2457 -70.09484,41.24403</coordinates>
+            </LineString>
+        </Placemark>
+    </Document>
+</kml>

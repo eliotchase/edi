@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <name>ut-uta routes</name>
+        <Style id="1.0">
+            <LineStyle>
+                <color>ff10c283</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="1.5">
+            <LineStyle>
+                <color>ff195c03</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="2.0">
+            <LineStyle>
+                <color>ffa0ad10</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="2.5">
+            <LineStyle>
+                <color>ffad4902</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="3.0">
+            <LineStyle>
+                <color>ffbf1d7e</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="3.5">
+            <LineStyle>
+                <color>ff6e0cb0</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="4.0">
+            <LineStyle>
+                <color>ff190177</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="10.0">
+            <LineStyle>
+                <color>ff000000</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Placemark>
+            <name>1: Rose Park / South Temple</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ut-uta&lt;br/&gt;EDI: 1.9</description>
+            <styleUrl>#1.5</styleUrl>
+            <LineString>
+                <coordinates>-111.837594,40.772535 -111.842451,40.772482 -111.847413,40.767522 -111.852172,40.767189 -111.854897,40.769412 -111.859328,40.769448 -111.864603,40.769399 -111.866504,40.769447 -111.870776,40.769394 -111.876465,40.769425 -111.880919,40.769426 -111.885538,40.768591 -111.886756,40.767267 -111.888422,40.765872 -111.888426,40.763851 -111.888444,40.762043 -111.893791,40.762627 -111.893799,40.766027 -111.893842,40.769901 -111.896505,40.771652 -111.90048,40.771677 -111.9099,40.77166 -111.91534,40.77169 -111.9167,40.774 -111.91671,40.77616 -111.91671,40.77841 -111.91672,40.78058 -111.916742,40.782779 -111.916743,40.785003 -111.916748,40.786845 -111.91673,40.7887 -111.918173,40.791139 -111.92193,40.79116 -111.92531,40.79116 -111.927359,40.791125 -111.932301,40.791121 -111.93502,40.79114 -111.93836,40.79115 -111.939482,40.788733 -111.939531,40.786566 -111.939554,40.784353 -111.93955,40.78085 -111.938179,40.776083 -111.933402,40.775599 -111.933123,40.77215 -111.93555,40.771679 -111.939441,40.770728 -111.939181,40.761126</coordinates>
+            </LineString>
+        </Placemark>
+    </Document>
+</kml>

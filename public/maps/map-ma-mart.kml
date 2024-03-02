@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <name>ma-mart routes</name>
+        <Style id="1.0">
+            <LineStyle>
+                <color>ff10c283</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="1.5">
+            <LineStyle>
+                <color>ff195c03</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="2.0">
+            <LineStyle>
+                <color>ffa0ad10</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="2.5">
+            <LineStyle>
+                <color>ffad4902</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="3.0">
+            <LineStyle>
+                <color>ffbf1d7e</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="3.5">
+            <LineStyle>
+                <color>ff6e0cb0</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="4.0">
+            <LineStyle>
+                <color>ff190177</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="10.0">
+            <LineStyle>
+                <color>ff000000</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Placemark>
+            <name>2: Intermodal Center - Monument Square</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ma-mart&lt;br/&gt;EDI: 1.05</description>
+            <styleUrl>#1.0</styleUrl>
+            <LineString>
+                <coordinates>-71.792582,42.58126 -71.794326,42.579162 -71.780389,42.563512 -71.773794,42.558449 -71.763132,42.541675 -71.757714,42.529277 -71.760145,42.526118</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>4: Fitchburg State University</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ma-mart&lt;br/&gt;EDI: 1.01</description>
+            <styleUrl>#1.0</styleUrl>
+            <LineString>
+                <coordinates>-71.792582,42.58126 -71.792122,42.585548 -71.789913,42.589173 -71.785631,42.596025</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>5: Intermodal Center - Parkhill Plaza - Central Plaza</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ma-mart&lt;br/&gt;EDI: 1.59</description>
+            <styleUrl>#1.5</styleUrl>
+            <LineString>
+                <coordinates>-71.792582,42.58126 -71.804962,42.586272 -71.820924,42.576518 -71.81606,42.568277 -71.818215,42.580325 -71.845737,42.564964 -71.859184,42.565042</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>6: Intermodal - Burbank - Fitchburg High</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ma-mart&lt;br/&gt;EDI: 1.1</description>
+            <styleUrl>#1.0</styleUrl>
+            <LineString>
+                <coordinates>-71.792582,42.58126 -71.804962,42.586272 -71.807031,42.597146 -71.806896,42.621632</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>7: Intermodal - John Fitch - Lunenburg Crossing</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ma-mart&lt;br/&gt;EDI: 1.09</description>
+            <styleUrl>#1.0</styleUrl>
+            <LineString>
+                <coordinates>-71.792582,42.58126 -71.775189,42.581403 -71.759197,42.594839</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>8: Monument Sq - Orchard Hill Park</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ma-mart&lt;br/&gt;EDI: 1.49</description>
+            <styleUrl>#1.0</styleUrl>
+            <LineString>
+                <coordinates>-71.765488,42.527756 -71.760078,42.526438 -71.745195,42.530472 -71.741531,42.528103 -71.730557,42.518906 -71.709184,42.52084 -71.713543,42.527158 -71.714401,42.52563</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>9: Monument Sq - Walmart</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ma-mart&lt;br/&gt;EDI: 1.47</description>
+            <styleUrl>#1.0</styleUrl>
+            <LineString>
+                <coordinates>-71.760145,42.526118 -71.745965,42.499584 -71.729545,42.494126 -71.729138,42.49241 -71.755978,42.480878</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>11: Intermodal - Great Wolf Lodge</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ma-mart&lt;br/&gt;EDI: 1.2</description>
+            <styleUrl>#1.0</styleUrl>
+            <LineString>
+                <coordinates>-71.792582,42.58126 -71.804962,42.586272 -71.813253,42.585699 -71.818473,42.583552 -71.830547,42.579227 -71.837501,42.574384 -71.845737,42.564964 -71.848127,42.553441 -71.854782,42.547818</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>Athol Link</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ma-mart&lt;br/&gt;EDI: 1.11</description>
+            <styleUrl>#1.0</styleUrl>
+            <LineString>
+                <coordinates>-72.262091,42.581765 -72.234304,42.592521 -72.228653,42.59338 -72.21554,42.589196 -72.20861,42.586165 -72.187997,42.578662 -72.132169,42.569941 -72.067628,42.555749 -72.037558,42.562177 -71.99658,42.574548 -71.992846,42.577822 -71.986549,42.587253 -71.983072,42.592567</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>Athol / Orange</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ma-mart&lt;br/&gt;EDI: 1.2</description>
+            <styleUrl>#1.0</styleUrl>
+            <LineString>
+                <coordinates>-72.187997,42.578662 -72.20853,42.586278 -72.21549,42.589576 -72.22923,42.582797 -72.228653,42.59338 -72.234304,42.592521 -72.262091,42.581765 -72.284304,42.588291 -72.309343,42.590873 -72.315392,42.591764</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>Clinton Worcester Commuter</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ma-mart&lt;br/&gt;EDI: 1.2</description>
+            <styleUrl>#1.0</styleUrl>
+            <LineString>
+                <coordinates>-71.798352,42.267328 -71.794829,42.261459 -71.797032,42.324628 -71.684912,42.416849 -71.760145,42.526118 -71.773946,42.558296 -71.792582,42.58126</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>Fitchburg State University Shuttle</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ma-mart&lt;br/&gt;EDI: 1.41</description>
+            <styleUrl>#1.0</styleUrl>
+            <LineString>
+                <coordinates>-71.803324,42.584208 -71.792582,42.58126 -71.793058,42.583223 -71.792122,42.585548 -71.790275,42.588286 -71.789913,42.589173 -71.789291,42.590798 -71.788781,42.593848 -71.785631,42.596025</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>Intercity / MWCC</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ma-mart&lt;br/&gt;EDI: 2.07</description>
+            <styleUrl>#2.0</styleUrl>
+            <LineString>
+                <coordinates>-71.792582,42.58126 -71.758023,42.547503 -71.761541,42.548262 -71.760145,42.526118 -71.782329,42.552242 -71.913491,42.546334 -71.924703,42.55405 -71.983072,42.592567 -71.99658,42.574548 -71.985389,42.568168</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>Wachusett Commuter Shuttle</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ma-mart&lt;br/&gt;EDI: 1.2</description>
+            <styleUrl>#1.0</styleUrl>
+            <LineString>
+                <coordinates>-71.985389,42.568168 -71.99658,42.574548 -71.848127,42.553441 -71.792582,42.58126</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>Winchendon Link</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ma-mart&lt;br/&gt;EDI: 1.37</description>
+            <styleUrl>#1.0</styleUrl>
+            <LineString>
+                <coordinates>-71.99658,42.574548 -72.054766,42.598668 -72.0746,42.607224 -72.080725,42.6384 -72.068697,42.674814 -72.046253,42.683959 -72.049296,42.682057</coordinates>
+            </LineString>
+        </Placemark>
+    </Document>
+</kml>

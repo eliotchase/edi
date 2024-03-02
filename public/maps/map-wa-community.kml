@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <name>wa-community routes</name>
+        <Style id="1.0">
+            <LineStyle>
+                <color>ff10c283</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="1.5">
+            <LineStyle>
+                <color>ff195c03</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="2.0">
+            <LineStyle>
+                <color>ffa0ad10</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="2.5">
+            <LineStyle>
+                <color>ffad4902</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="3.0">
+            <LineStyle>
+                <color>ffbf1d7e</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="3.5">
+            <LineStyle>
+                <color>ff6e0cb0</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="4.0">
+            <LineStyle>
+                <color>ff190177</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="10.0">
+            <LineStyle>
+                <color>ff000000</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Placemark>
+            <name>Swift Blue: Everett - Aurora Village</name>
+            <description>Branch: Main&lt;br/&gt;Agency: wa-community&lt;br/&gt;EDI: 1.05</description>
+            <styleUrl>#1.0</styleUrl>
+            <LineString>
+                <coordinates>-122.196897,47.973389 -122.206805,47.976667 -122.210975,47.962858 -122.213903,47.951626 -122.21782,47.941407 -122.228882,47.92129 -122.239459,47.909968 -122.25243,47.896072 -122.258838,47.889213 -122.274294,47.872642 -122.282573,47.863767 -122.298334,47.840824 -122.315656,47.820787 -122.321744,47.813736 -122.329612,47.802879 -122.344036,47.782854 -122.341069,47.774297</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>Swift Green: Seaway - Canyon Park</name>
+            <description>Branch: Main&lt;br/&gt;Agency: wa-community&lt;br/&gt;EDI: 1.19</description>
+            <styleUrl>#1.0</styleUrl>
+            <LineString>
+                <coordinates>-122.260421,47.929989 -122.271872,47.917928 -122.271264,47.907224 -122.26352,47.896164 -122.258072,47.888695 -122.249921,47.881764 -122.239181,47.8818 -122.227604,47.881877 -122.219476,47.880043 -122.211354,47.87807 -122.217941,47.870936 -122.219074,47.858941 -122.217555,47.849202 -122.210721,47.834326 -122.207621,47.819965 -122.207877,47.808928 -122.210858,47.793893</coordinates>
+            </LineString>
+        </Placemark>
+    </Document>
+</kml>

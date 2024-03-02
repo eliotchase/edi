@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <name>mi-ddot routes</name>
+        <Style id="1.0">
+            <LineStyle>
+                <color>ff10c283</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="1.5">
+            <LineStyle>
+                <color>ff195c03</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="2.0">
+            <LineStyle>
+                <color>ffa0ad10</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="2.5">
+            <LineStyle>
+                <color>ffad4902</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="3.0">
+            <LineStyle>
+                <color>ffbf1d7e</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="3.5">
+            <LineStyle>
+                <color>ff6e0cb0</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="4.0">
+            <LineStyle>
+                <color>ff190177</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="10.0">
+            <LineStyle>
+                <color>ff000000</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Placemark>
+            <name>1: Vernor</name>
+            <description>Branch: Main&lt;br/&gt;Agency: mi-ddot&lt;br/&gt;EDI: 1.26</description>
+            <styleUrl>#1.0</styleUrl>
+            <LineString>
+                <coordinates>-83.052425,42.332769 -83.051226,42.331399 -83.050738,42.330522 -83.051789,42.330093 -83.055375,42.32852 -83.057605,42.32757 -83.058907,42.327031 -83.062397,42.325665 -83.06373,42.327436 -83.065843,42.329423 -83.070374,42.327851 -83.072914,42.327069 -83.077577,42.325625 -83.080718,42.324666 -83.082483,42.32564 -83.086842,42.323878 -83.089764,42.322728 -83.092208,42.321768 -83.094347,42.320963 -83.096141,42.320256 -83.09734,42.319731 -83.099849,42.318727 -83.1022,42.317732 -83.104138,42.316939 -83.106016,42.316173 -83.108978,42.315716 -83.110811,42.315645 -83.117252,42.315636 -83.120588,42.314237 -83.121939,42.313679 -83.124568,42.312611 -83.12781,42.311283 -83.130403,42.310207 -83.132885,42.309198 -83.135535,42.308124 -83.138143,42.30707 -83.143776,42.304773 -83.153487,42.311666 -83.15768,42.310601 -83.159687,42.313362 -83.165866,42.322142 -83.169413,42.324197 -83.171531,42.323561 -83.174462,42.322691 -83.176046,42.321868 -83.176714,42.321844</coordinates>
+            </LineString>
+        </Placemark>
+    </Document>
+</kml>

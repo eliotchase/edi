@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <name>on-grt routes</name>
+        <Style id="1.0">
+            <LineStyle>
+                <color>ff10c283</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="1.5">
+            <LineStyle>
+                <color>ff195c03</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="2.0">
+            <LineStyle>
+                <color>ffa0ad10</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="2.5">
+            <LineStyle>
+                <color>ffad4902</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="3.0">
+            <LineStyle>
+                <color>ffbf1d7e</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="3.5">
+            <LineStyle>
+                <color>ff6e0cb0</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="4.0">
+            <LineStyle>
+                <color>ff190177</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="10.0">
+            <LineStyle>
+                <color>ff000000</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Placemark>
+            <name>9: Lakeshore</name>
+            <description>Branch: Main&lt;br/&gt;Agency: on-grt&lt;br/&gt;EDI: 3.11</description>
+            <styleUrl>#3.0</styleUrl>
+            <LineString>
+                <coordinates>-80.539424,43.474441 -80.540812,43.476816 -80.544382,43.475516 -80.546437,43.475116 -80.547816,43.477166 -80.549031,43.478965 -80.54586,43.481986 -80.546746,43.485859 -80.545512,43.488883 -80.546104,43.490028 -80.547738,43.489819 -80.550249,43.48801 -80.551714,43.485674 -80.555426,43.48704 -80.559081,43.486153 -80.559669,43.485102 -80.563096,43.486709 -80.562992,43.48914 -80.564264,43.491089 -80.563961,43.493619 -80.559538,43.494709 -80.556657,43.494509 -80.555935,43.493525 -80.553554,43.494353 -80.54971,43.495643 -80.548259,43.496232 -80.546213,43.496944 -80.54404,43.497645 -80.536994,43.500188 -80.533612,43.501393 -80.530618,43.501473 -80.528838,43.498071</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>33: Huron</name>
+            <description>Branch: Main&lt;br/&gt;Agency: on-grt&lt;br/&gt;EDI: 3.27</description>
+            <styleUrl>#3.0</styleUrl>
+            <LineString>
+                <coordinates>-80.466746,43.426411 -80.470939,43.424638 -80.468877,43.42291 -80.465066,43.420062 -80.4666,43.419023 -80.473666,43.417796 -80.476262,43.417152 -80.479563,43.415531 -80.478084,43.414156 -80.476219,43.410869 -80.47515,43.407398 -80.474412,43.405621 -80.473436,43.404175 -80.468579,43.401749 -80.467544,43.398637 -80.46795,43.394623 -80.466782,43.392592 -80.471626,43.389173 -80.474559,43.389999 -80.478812,43.389316 -80.482008,43.389546 -80.485718,43.388897 -80.484588,43.386649 -80.483417,43.383529 -80.48769,43.382511 -80.494067,43.381689 -80.494673,43.383384 -80.495109,43.384737 -80.491245,43.386819 -80.490931,43.38953 -80.496634,43.402251 -80.497331,43.404086 -80.500091,43.406717 -80.502069,43.408337 -80.504961,43.410782 -80.508928,43.413217 -80.51004,43.410452 -80.513879,43.41073 -80.515847,43.411809 -80.517044,43.415376</coordinates>
+            </LineString>
+        </Placemark>
+    </Document>
+</kml>

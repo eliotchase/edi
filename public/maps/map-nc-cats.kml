@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <name>nc-cats routes</name>
+        <Style id="1.0">
+            <LineStyle>
+                <color>ff10c283</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="1.5">
+            <LineStyle>
+                <color>ff195c03</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="2.0">
+            <LineStyle>
+                <color>ffa0ad10</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="2.5">
+            <LineStyle>
+                <color>ffad4902</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="3.0">
+            <LineStyle>
+                <color>ffbf1d7e</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="3.5">
+            <LineStyle>
+                <color>ff6e0cb0</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="4.0">
+            <LineStyle>
+                <color>ff190177</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="10.0">
+            <LineStyle>
+                <color>ff000000</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Placemark>
+            <name>Lynx Blue Line</name>
+            <description>Branch: Main&lt;br/&gt;Agency: nc-cats&lt;br/&gt;EDI: 1.1</description>
+            <styleUrl>#1.0</styleUrl>
+            <LineString>
+                <coordinates>-80.882925,35.107087 -80.881962,35.11945 -80.876364,35.135606 -80.877485,35.152897 -80.87757,35.162948 -80.879063,35.175789 -80.875075,35.190842 -80.869042,35.199887 -80.85914,35.212117 -80.855346,35.215787 -80.850947,35.218822 -80.847066,35.221319 -80.843237,35.223631 -80.840975,35.225336 -80.838088,35.227375 -80.835022,35.229656 -80.82329,35.236921 -80.817147,35.241703 -80.806364,35.249085 -80.792853,35.251423 -80.77279,35.259934 -80.766283,35.277951 -80.760864,35.286787 -80.752875,35.301124 -80.745189,35.310742 -80.733749,35.312136</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>Lynx Gold Line</name>
+            <description>Branch: Main&lt;br/&gt;Agency: nc-cats&lt;br/&gt;EDI: 1.32</description>
+            <styleUrl>#1.0</styleUrl>
+            <LineString>
+                <coordinates>-80.856853,35.246253 -80.858203,35.243514 -80.858449,35.240162 -80.85881,35.237341 -80.850954,35.233737 -80.847669,35.23115 -80.845694,35.229461 -80.843162,35.227272 -80.839864,35.224467 -80.837803,35.222709 -80.835988,35.221125 -80.831506,35.217582 -80.826492,35.21359 -80.82453,35.21379 -80.820881,35.21679 -80.818898,35.219537</coordinates>
+            </LineString>
+        </Placemark>
+    </Document>
+</kml>

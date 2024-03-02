@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <name>ca-lbt routes</name>
+        <Style id="1.0">
+            <LineStyle>
+                <color>ff10c283</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="1.5">
+            <LineStyle>
+                <color>ff195c03</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="2.0">
+            <LineStyle>
+                <color>ffa0ad10</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="2.5">
+            <LineStyle>
+                <color>ffad4902</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="3.0">
+            <LineStyle>
+                <color>ffbf1d7e</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="3.5">
+            <LineStyle>
+                <color>ff6e0cb0</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="4.0">
+            <LineStyle>
+                <color>ff190177</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="10.0">
+            <LineStyle>
+                <color>ff000000</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Placemark>
+            <name>1: Del Amo - CSUDH</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ca-lbt&lt;br/&gt;EDI: 1.89</description>
+            <styleUrl>#1.5</styleUrl>
+            <LineString>
+                <coordinates>-118.211259,33.848161 -118.21454,33.846763 -118.224114,33.84677 -118.234671,33.84691 -118.23895,33.846926 -118.244002,33.846922 -118.248876,33.846911 -118.25376,33.846864 -118.259014,33.8469 -118.264681,33.84835 -118.265358,33.853571 -118.265957,33.859266 -118.265945,33.863347 -118.265722,33.866884 -118.261273,33.86702 -118.252573,33.867475</coordinates>
+            </LineString>
+        </Placemark>
+    </Document>
+</kml>

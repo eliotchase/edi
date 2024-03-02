@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <name>ca-sacrt routes</name>
+        <Style id="1.0">
+            <LineStyle>
+                <color>ff10c283</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="1.5">
+            <LineStyle>
+                <color>ff195c03</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="2.0">
+            <LineStyle>
+                <color>ffa0ad10</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="2.5">
+            <LineStyle>
+                <color>ffad4902</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="3.0">
+            <LineStyle>
+                <color>ffbf1d7e</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="3.5">
+            <LineStyle>
+                <color>ff6e0cb0</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="4.0">
+            <LineStyle>
+                <color>ff190177</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="10.0">
+            <LineStyle>
+                <color>ff000000</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Placemark>
+            <name>1: Greenback</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ca-sacrt&lt;br/&gt;EDI: 1.2</description>
+            <styleUrl>#1.0</styleUrl>
+            <LineString>
+                <coordinates>-121.383345,38.645132 -121.382112,38.637427 -121.377622,38.63918 -121.375018,38.640053 -121.369228,38.641748 -121.364608,38.644138 -121.359921,38.647685 -121.356252,38.648691 -121.35339,38.649453 -121.350339,38.650808 -121.350327,38.653889 -121.350433,38.656662 -121.346298,38.661224 -121.343666,38.663521 -121.341034,38.665749 -121.338776,38.66742 -121.336235,38.668346 -121.331749,38.670586 -121.32724,38.673702 -121.324217,38.67623 -121.323183,38.67712 -121.316269,38.678021 -121.3097,38.678028 -121.304917,38.678041 -121.297989,38.678125 -121.295122,38.678152 -121.292008,38.678185 -121.283852,38.678181 -121.281258,38.678246 -121.278381,38.678238 -121.275688,38.678272 -121.271431,38.678993 -121.267253,38.679128</coordinates>
+            </LineString>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <name>ca-avta routes</name>
+        <Style id="1.0">
+            <LineStyle>
+                <color>ff10c283</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="1.5">
+            <LineStyle>
+                <color>ff195c03</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="2.0">
+            <LineStyle>
+                <color>ffa0ad10</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="2.5">
+            <LineStyle>
+                <color>ffad4902</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="3.0">
+            <LineStyle>
+                <color>ffbf1d7e</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="3.5">
+            <LineStyle>
+                <color>ff6e0cb0</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="4.0">
+            <LineStyle>
+                <color>ff190177</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="10.0">
+            <LineStyle>
+                <color>ff000000</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Placemark>
+            <name>1: Lancaster - Palmdale</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ca-avta&lt;br/&gt;EDI: 1.42</description>
+            <styleUrl>#1.0</styleUrl>
+            <LineString>
+                <coordinates>-118.137135,34.701524 -118.144744,34.701288 -118.148193,34.700362 -118.14821,34.695835 -118.148157,34.688938 -118.148117,34.685382 -118.147995,34.681827 -118.148002,34.677695 -118.14803,34.67423 -118.148034,34.67194 -118.148766,34.666869 -118.147952,34.659661 -118.147757,34.651947 -118.147872,34.648948 -118.147823,34.64503 -118.147826,34.641666 -118.147827,34.637563 -118.147827,34.632851 -118.147882,34.6163 -118.147859,34.612442 -118.147888,34.608214 -118.147912,34.603169 -118.147688,34.597901 -118.146457,34.594481 -118.142829,34.594438 -118.139097,34.594427 -118.120484,34.591172 -118.119513,34.587567 -118.118392,34.580206 -118.115402,34.579456 -118.1124,34.57945 -118.108918,34.579471 -118.102685,34.57953 -118.096901,34.579554 -118.092858,34.579867 -118.08899,34.579991 -118.084415,34.58004 -118.080875,34.580065 -118.075626,34.580074 -118.066377,34.580061 -118.057755,34.577979</coordinates>
+            </LineString>
+        </Placemark>
+    </Document>
+</kml>

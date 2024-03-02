@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <name>pa-part routes</name>
+        <Style id="1.0">
+            <LineStyle>
+                <color>ff10c283</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="1.5">
+            <LineStyle>
+                <color>ff195c03</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="2.0">
+            <LineStyle>
+                <color>ffa0ad10</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="2.5">
+            <LineStyle>
+                <color>ffad4902</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="3.0">
+            <LineStyle>
+                <color>ffbf1d7e</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="3.5">
+            <LineStyle>
+                <color>ff6e0cb0</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="4.0">
+            <LineStyle>
+                <color>ff190177</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="10.0">
+            <LineStyle>
+                <color>ff000000</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Placemark>
+            <name>Blue Line</name>
+            <description>Branch: Main&lt;br/&gt;Agency: pa-part&lt;br/&gt;EDI: 1.11</description>
+            <styleUrl>#1.0</styleUrl>
+            <LineString>
+                <coordinates>-75.651227,40.244921 -75.646013,40.245117 -75.642192,40.244629 -75.638919,40.244229 -75.634805,40.243709 -75.629057,40.244215 -75.619371,40.243243 -75.616239,40.243813 -75.614008,40.244042 -75.612618,40.242805 -75.609443,40.243989 -75.601788,40.244316 -75.597051,40.244922 -75.591708,40.244877 -75.588129,40.244639 -75.584921,40.244367 -75.578006,40.244139 -75.576439,40.237133 -75.570769,40.237509</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>Orange Line</name>
+            <description>Branch: Main&lt;br/&gt;Agency: pa-part&lt;br/&gt;EDI: 1.12</description>
+            <styleUrl>#1.0</styleUrl>
+            <LineString>
+                <coordinates>-75.624031,40.382432 -75.619147,40.335424 -75.619598,40.324131 -75.635659,40.295522 -75.654836,40.265449 -75.665419,40.256905 -75.665161,40.254474 -75.668955,40.249579 -75.650501,40.245697 -75.658999,40.225552</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>Purple Line</name>
+            <description>Branch: Main&lt;br/&gt;Agency: pa-part&lt;br/&gt;EDI: 3.94</description>
+            <styleUrl>#3.5</styleUrl>
+            <LineString>
+                <coordinates>-75.651227,40.244921 -75.650501,40.245697 -75.650372,40.246213 -75.649606,40.249571 -75.647567,40.251968 -75.646283,40.257735 -75.648062,40.255361 -75.636991,40.257898 -75.633606,40.259854 -75.629068,40.264218 -75.596615,40.257157 -75.613621,40.259548 -75.588343,40.253809 -75.597051,40.244922 -75.601697,40.244325 -75.609443,40.243989 -75.612618,40.242805</coordinates>
+            </LineString>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <name>ma-bat routes</name>
+        <Style id="1.0">
+            <LineStyle>
+                <color>ff10c283</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="1.5">
+            <LineStyle>
+                <color>ff195c03</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="2.0">
+            <LineStyle>
+                <color>ffa0ad10</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="2.5">
+            <LineStyle>
+                <color>ffad4902</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="3.0">
+            <LineStyle>
+                <color>ffbf1d7e</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="3.5">
+            <LineStyle>
+                <color>ff6e0cb0</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="4.0">
+            <LineStyle>
+                <color>ff190177</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="10.0">
+            <LineStyle>
+                <color>ff000000</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Placemark>
+            <name>10: Lisa &amp;amp; Howard via N Quincy &amp;amp; Court</name>
+            <description>Branch: Inbound&lt;br/&gt;Agency: ma-bat&lt;br/&gt;EDI: 3.13</description>
+            <styleUrl>#3.0</styleUrl>
+            <LineString>
+                <coordinates>-71.025677,42.108796 -71.022586,42.109636 -71.023002,42.111232 -71.023275,42.112276 -71.019453,42.117077 -71.017976,42.117972 -71.016851,42.119871 -71.010926,42.119777 -71.008536,42.119871 -71.002045,42.120364 -71.001018,42.120201 -71.000471,42.118735 -71.000243,42.117903 -71.000074,42.117112 -70.999352,42.114302 -70.999023,42.113084 -70.998572,42.111208 -70.998406,42.110595 -70.998242,42.109691 -71.001995,42.102471 -70.998808,42.102926 -70.998076,42.103029 -70.997279,42.101847 -70.997054,42.101238 -70.997877,42.099475 -70.997762,42.098267 -70.999594,42.098012 -71.001949,42.097584 -71.004626,42.097305 -71.005536,42.097192 -71.008091,42.096507 -71.011039,42.095341 -71.012772,42.094838 -71.014797,42.094328 -71.015918,42.094147 -71.017524,42.093685 -71.017508,42.092272 -71.017479,42.090383 -71.017436,42.088673 -71.017332,42.087484 -71.017118,42.085655 -71.015268,42.085291</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>10: Lisa &amp;amp; Howard via N Quincy &amp;amp; Court</name>
+            <description>Branch: Outbound&lt;br/&gt;Agency: ma-bat&lt;br/&gt;EDI: 3.0</description>
+            <styleUrl>#3.0</styleUrl>
+            <LineString>
+                <coordinates>-71.015268,42.085291 -71.012251,42.086291 -71.01051,42.086536 -71.009073,42.086741 -71.007579,42.086938 -71.005908,42.087157 -71.004435,42.087575 -71.003891,42.08809 -71.002354,42.089571 -71.001426,42.090339 -70.998097,42.091868 -70.996576,42.092553 -70.993554,42.093856 -70.991937,42.09453 -70.989898,42.095282 -70.990016,42.096913 -70.990241,42.098046 -70.990504,42.098864 -70.990984,42.100275 -70.991413,42.101503 -70.992312,42.104977 -70.995656,42.107501 -70.998151,42.10995 -70.998365,42.110969 -70.999352,42.114302 -71.000071,42.11656 -71.001048,42.116445 -71.004352,42.116685 -71.005492,42.116451 -71.006978,42.115806 -71.009926,42.114294 -71.012654,42.113042 -71.014507,42.112201 -71.016449,42.111245 -71.017624,42.110666 -71.019145,42.109729 -71.016156,42.105562 -71.020056,42.106414 -71.020649,42.106607 -71.021001,42.107121 -71.021768,42.108169 -71.025677,42.108796</coordinates>
+            </LineString>
+        </Placemark>
+    </Document>
+</kml>

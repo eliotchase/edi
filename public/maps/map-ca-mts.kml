@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <name>ca-mts routes</name>
+        <Style id="1.0">
+            <LineStyle>
+                <color>ff10c283</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="1.5">
+            <LineStyle>
+                <color>ff195c03</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="2.0">
+            <LineStyle>
+                <color>ffa0ad10</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="2.5">
+            <LineStyle>
+                <color>ffad4902</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="3.0">
+            <LineStyle>
+                <color>ffbf1d7e</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="3.5">
+            <LineStyle>
+                <color>ff6e0cb0</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="4.0">
+            <LineStyle>
+                <color>ff190177</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="10.0">
+            <LineStyle>
+                <color>ff000000</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Placemark>
+            <name>1: Fashion Valley - La Mesa</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ca-mts&lt;br/&gt;EDI: 1.17</description>
+            <styleUrl>#1.0</styleUrl>
+            <LineString>
+                <coordinates>-117.022156,32.766155 -117.026556,32.765229 -117.027704,32.767005 -117.029461,32.768099 -117.033952,32.76839 -117.038072,32.768904 -117.040779,32.768945 -117.047496,32.768844 -117.052707,32.768733 -117.05714,32.767204 -117.060722,32.765176 -117.063807,32.763499 -117.067614,32.761214 -117.070331,32.759907 -117.071886,32.759152 -117.075074,32.758543 -117.077712,32.75819 -117.080048,32.757869 -117.083368,32.757401 -117.085554,32.757079 -117.088098,32.756729 -117.092035,32.756195 -117.094753,32.755877 -117.097287,32.755468 -117.099539,32.755216 -117.101703,32.755289 -117.104211,32.755299 -117.106377,32.755311 -117.108902,32.755376 -117.111331,32.755348 -117.113449,32.755364 -117.116113,32.755384 -117.117733,32.755394 -117.121841,32.75542 -117.128019,32.755497 -117.130527,32.755493 -117.132826,32.75548 -117.134937,32.755478 -117.138557,32.755458 -117.142935,32.755443 -117.146633,32.753834 -117.1465,32.752569 -117.146482,32.748581 -117.149308,32.748498 -117.151073,32.748674 -117.153785,32.748624 -117.156164,32.748494 -117.158089,32.748474 -117.169236,32.761659 -117.168972,32.765652</coordinates>
+            </LineString>
+        </Placemark>
+    </Document>
+</kml>

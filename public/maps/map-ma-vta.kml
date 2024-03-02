@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <name>ma-vta routes</name>
+        <Style id="1.0">
+            <LineStyle>
+                <color>ff10c283</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="1.5">
+            <LineStyle>
+                <color>ff195c03</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="2.0">
+            <LineStyle>
+                <color>ffa0ad10</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="2.5">
+            <LineStyle>
+                <color>ffad4902</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="3.0">
+            <LineStyle>
+                <color>ffbf1d7e</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="3.5">
+            <LineStyle>
+                <color>ff6e0cb0</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="4.0">
+            <LineStyle>
+                <color>ff190177</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="10.0">
+            <LineStyle>
+                <color>ff000000</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Placemark>
+            <name>1: Edgartown - Vineyard Haven Road</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ma-vta&lt;br/&gt;EDI: 1.23</description>
+            <styleUrl>#1.0</styleUrl>
+            <LineString>
+                <coordinates>-70.51463,41.391 -70.51927,41.39142 -70.52598,41.39377 -70.5295,41.39516 -70.5457,41.39922 -70.56409,41.40678 -70.59347,41.41868 -70.59515,41.42249 -70.60106,41.42072 -70.60825,41.43059 -70.60803,41.43464 -70.60817,41.43867 -70.60929,41.43943 -70.60704,41.44829 -70.60132,41.45571</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>2: West Tisbury - Vineyard Haven via Lambert's Cove Road</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ma-vta&lt;br/&gt;EDI: 1.54</description>
+            <styleUrl>#1.5</styleUrl>
+            <LineString>
+                <coordinates>-70.67487,41.38082 -70.6616041897869,41.40217148529 -70.64566,41.42267 -70.66743,41.41738 -70.66789,41.44134 -70.63719,41.44965 -70.61597,41.44668 -70.60132,41.45571</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>3: West Tisbury - Vineyard Haven via State Road</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ma-vta&lt;br/&gt;EDI: 1.37</description>
+            <styleUrl>#1.0</styleUrl>
+            <LineString>
+                <coordinates>-70.60132,41.45571 -70.61604,41.44671 -70.66743,41.41738 -70.64566,41.42267 -70.6617,41.40225 -70.67487,41.38082</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>4: West Tisbury - Chilmark - Menemsha</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ma-vta&lt;br/&gt;EDI: 2.03</description>
+            <styleUrl>#2.0</styleUrl>
+            <LineString>
+                <coordinates>-70.67487,41.38082 -70.67731,41.40313 -70.70504,41.39828 -70.73277,41.37154 -70.76598,41.35418 -70.74248,41.34254</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>5: West Tisbury - Chilmark - Aquinnah</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ma-vta&lt;br/&gt;EDI: 1.2</description>
+            <styleUrl>#1.0</styleUrl>
+            <LineString>
+                <coordinates>-70.67478,41.38018 -70.69594,41.35555 -70.74248,41.34254 -70.77061,41.32356 -70.79918,41.33265 -70.81176,41.34259 -70.83645,41.34663</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>6: Edgartown - Airport - West Tisbury</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ma-vta&lt;br/&gt;EDI: 1.02</description>
+            <styleUrl>#1.0</styleUrl>
+            <LineString>
+                <coordinates>-70.51463,41.391 -70.54092,41.3859 -70.61158,41.38959 -70.63077,41.38388 -70.6566091489803,41.3835125640835 -70.67478,41.38018 -70.67487,41.38082</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>7: Oak Bluffs - Airport - Hospital</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ma-vta&lt;br/&gt;EDI: 1.2</description>
+            <styleUrl>#1.0</styleUrl>
+            <LineString>
+                <coordinates>-70.55626,41.45692 -70.55691,41.45591 -70.55916,41.45195 -70.57483,41.44689 -70.57422,41.43429 -70.59352,41.41957 -70.59515,41.42249 -70.60169,41.42118 -70.60187,41.39423 -70.61158,41.38959</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>8: South Beach Route</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ma-vta&lt;br/&gt;EDI: 1.31</description>
+            <styleUrl>#1.0</styleUrl>
+            <LineString>
+                <coordinates>-70.51463,41.391 -70.51919,41.38768 -70.51881,41.37467 -70.52344,41.36356 -70.528,41.35081 -70.51211,41.3494</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>9: Oak Bluffs - Hospital - Airport</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ma-vta&lt;br/&gt;EDI: 1.26</description>
+            <styleUrl>#1.0</styleUrl>
+            <LineString>
+                <coordinates>-70.61158,41.38959 -70.60187,41.39423 -70.60172,41.42048 -70.59484,41.41894 -70.59352,41.41957 -70.59515,41.42249 -70.57422,41.43429 -70.57472,41.4468 -70.5757,41.45463 -70.56786,41.45492 -70.55626,41.45692</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>10: Tisbury Park and Ride</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ma-vta&lt;br/&gt;EDI: 1.0</description>
+            <styleUrl>#1.0</styleUrl>
+            <LineString>
+                <coordinates>-70.60132,41.45571 -70.60668,41.4515 -70.61378,41.4451</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>11: Downtown Edgartown</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ma-vta&lt;br/&gt;EDI: 1.0</description>
+            <styleUrl>#1.0</styleUrl>
+            <LineString>
+                <coordinates>-70.51203,41.38943 -70.51927,41.39142 -70.52598,41.39377 -70.52897,41.39433</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>13: Edgartown - Oak Bluffs - Vineyard Haven</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ma-vta&lt;br/&gt;EDI: 1.25</description>
+            <styleUrl>#1.0</styleUrl>
+            <LineString>
+                <coordinates>-70.51463,41.391 -70.51927,41.39142 -70.52598,41.39377 -70.53026,41.39659 -70.54819,41.41572 -70.55647,41.43301 -70.55558,41.4567 -70.58186,41.46136 -70.60132,41.45571</coordinates>
+            </LineString>
+        </Placemark>
+    </Document>
+</kml>

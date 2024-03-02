@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <name>ca-fax routes</name>
+        <Style id="1.0">
+            <LineStyle>
+                <color>ff10c283</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="1.5">
+            <LineStyle>
+                <color>ff195c03</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="2.0">
+            <LineStyle>
+                <color>ffa0ad10</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="2.5">
+            <LineStyle>
+                <color>ffad4902</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="3.0">
+            <LineStyle>
+                <color>ffbf1d7e</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="3.5">
+            <LineStyle>
+                <color>ff6e0cb0</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="4.0">
+            <LineStyle>
+                <color>ff190177</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="10.0">
+            <LineStyle>
+                <color>ff000000</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Placemark>
+            <name>1: Q - BRT</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ca-fax&lt;br/&gt;EDI: 1.42</description>
+            <styleUrl>#1.0</styleUrl>
+            <LineString>
+                <coordinates>-119.785065,36.857407 -119.790668,36.845619 -119.790266,36.837122 -119.790481,36.829859 -119.790405,36.822288 -119.790592,36.815129 -119.790662,36.808012 -119.790511,36.801821 -119.790683,36.793701 -119.790699,36.790151 -119.790286,36.783667 -119.790552,36.771991 -119.790579,36.768251 -119.790568,36.757227 -119.790643,36.749826 -119.790515,36.742571 -119.788315,36.738834 -119.790309,36.735698 -119.78189,36.73253 -119.772161,36.73577 -119.764426,36.735853 -119.753707,36.735759 -119.745427,36.735898 -119.736339,36.735924 -119.730157,36.735902 -119.718164,36.735901 -119.696305,36.736101</coordinates>
+            </LineString>
+        </Placemark>
+    </Document>
+</kml>

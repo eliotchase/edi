@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <name>mi-cata routes</name>
+        <Style id="1.0">
+            <LineStyle>
+                <color>ff10c283</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="1.5">
+            <LineStyle>
+                <color>ff195c03</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="2.0">
+            <LineStyle>
+                <color>ffa0ad10</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="2.5">
+            <LineStyle>
+                <color>ffad4902</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="3.0">
+            <LineStyle>
+                <color>ffbf1d7e</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="3.5">
+            <LineStyle>
+                <color>ff6e0cb0</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="4.0">
+            <LineStyle>
+                <color>ff190177</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="10.0">
+            <LineStyle>
+                <color>ff000000</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Placemark>
+            <name>1: Downtown Lansing - Meridian Mall</name>
+            <description>Branch: Main&lt;br/&gt;Agency: mi-cata&lt;br/&gt;EDI: 1.14</description>
+            <styleUrl>#1.0</styleUrl>
+            <LineString>
+                <coordinates>-84.420488,42.724535 -84.424861,42.721706 -84.428004,42.722238 -84.43291,42.7231 -84.43585,42.72359 -84.44176,42.72456 -84.4493,42.72586 -84.45379,42.72715 -84.456732,42.728025 -84.45965,42.7288 -84.463706,42.729867 -84.467941,42.730999 -84.47022,42.73158 -84.472791,42.732346 -84.47556,42.73308 -84.477862,42.733701 -84.482675,42.735003 -84.488191,42.735044 -84.490772,42.734357 -84.492615,42.733902 -84.497038,42.733664 -84.50243,42.73373 -84.50431,42.733714 -84.506217,42.737159 -84.508409,42.736571 -84.5084,42.7346 -84.51152,42.73369 -84.51484,42.73368 -84.51795,42.73371 -84.520304,42.733679 -84.522724,42.733699 -84.52646,42.73367 -84.529554,42.733658 -84.53522,42.73365 -84.53733,42.733652 -84.54162,42.73363 -84.54506,42.73367 -84.548496,42.733693 -84.55056,42.734257 -84.55213,42.73747 -84.553937,42.735583 -84.553988,42.732871</coordinates>
+            </LineString>
+        </Placemark>
+    </Document>
+</kml>

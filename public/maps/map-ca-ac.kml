@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <name>ca-ac routes</name>
+        <Style id="1.0">
+            <LineStyle>
+                <color>ff10c283</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="1.5">
+            <LineStyle>
+                <color>ff195c03</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="2.0">
+            <LineStyle>
+                <color>ffa0ad10</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="2.5">
+            <LineStyle>
+                <color>ffad4902</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="3.0">
+            <LineStyle>
+                <color>ffbf1d7e</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="3.5">
+            <LineStyle>
+                <color>ff6e0cb0</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="4.0">
+            <LineStyle>
+                <color>ff190177</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="10.0">
+            <LineStyle>
+                <color>ff000000</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Placemark>
+            <name>1T: International - E. 14th</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ca-ac&lt;br/&gt;EDI: 1.09</description>
+            <styleUrl>#1.0</styleUrl>
+            <LineString>
+                <coordinates>-122.268681,37.808537 -122.271487,37.804092 -122.271797,37.80189 -122.267992,37.800431 -122.265638,37.799508 -122.257103,37.796971 -122.25336,37.793694 -122.249667,37.790419 -122.246421,37.788785 -122.239667,37.785624 -122.234526,37.782547 -122.230205,37.779959 -122.226842,37.778071 -122.223443,37.776438 -122.219282,37.77445 -122.213176,37.771538 -122.209049,37.769574 -122.205743,37.768014 -122.200553,37.76559 -122.196046,37.763436 -122.191508,37.761301 -122.18838,37.759805 -122.18465,37.758032 -122.179737,37.755697 -122.176386,37.752258 -122.174198,37.749303 -122.171732,37.745979 -122.169794,37.743343 -122.167757,37.740639 -122.164005,37.735617 -122.161485,37.732028 -122.158803,37.728445 -122.157925,37.72544 -122.160166,37.721569</coordinates>
+            </LineString>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <name>va-loudoun routes</name>
+        <Style id="1.0">
+            <LineStyle>
+                <color>ff10c283</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="1.5">
+            <LineStyle>
+                <color>ff195c03</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="2.0">
+            <LineStyle>
+                <color>ffa0ad10</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="2.5">
+            <LineStyle>
+                <color>ffad4902</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="3.0">
+            <LineStyle>
+                <color>ffbf1d7e</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="3.5">
+            <LineStyle>
+                <color>ff6e0cb0</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="4.0">
+            <LineStyle>
+                <color>ff190177</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="10.0">
+            <LineStyle>
+                <color>ff000000</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Placemark>
+            <name>62: Ashburn Connector</name>
+            <description>Branch: Main&lt;br/&gt;Agency: va-loudoun&lt;br/&gt;EDI: 2.11</description>
+            <styleUrl>#2.0</styleUrl>
+            <LineString>
+                <coordinates>-77.474035,39.04427 -77.47255,39.040328 -77.469613,39.037264 -77.470007,39.035738 -77.4671,39.034393 -77.464732,39.03431 -77.460512,39.034034 -77.454978,39.028892 -77.459552,39.034663 -77.461049,39.038618 -77.462154,39.045464 -77.457883,39.042884 -77.451968,39.043832 -77.453842,39.050759 -77.422202,39.030743</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>70: Leesburg - Sterling via Leesburg Pike</name>
+            <description>Branch: Main&lt;br/&gt;Agency: va-loudoun&lt;br/&gt;EDI: 1.48</description>
+            <styleUrl>#1.0</styleUrl>
+            <LineString>
+                <coordinates>-77.389506,39.029187 -77.387444,39.035912 -77.394873,39.035457 -77.400643,39.035738 -77.40391,39.025813 -77.406879,39.027351 -77.407353,39.030663 -77.41133,39.031425 -77.413167,39.027302 -77.413757,39.024862 -77.417231,39.025532 -77.421341,39.028208 -77.422202,39.030743 -77.447171,39.059478 -77.443013,39.055794 -77.438732,39.052689 -77.437948,39.055031 -77.443269,39.056374 -77.446382,39.059486 -77.453842,39.050759 -77.465775,39.056796 -77.472653,39.060211 -77.47126,39.068099 -77.476805,39.073661 -77.482425,39.077536 -77.492203,39.083323 -77.496332,39.086626 -77.505318,39.092537 -77.510674,39.096582 -77.519391,39.100494 -77.522105,39.101984 -77.527578,39.10505 -77.530948,39.106807 -77.534691,39.108834 -77.541728,39.113695 -77.547046,39.112111 -77.549616,39.109158 -77.551375,39.108591 -77.553139,39.109501 -77.555796,39.110887 -77.561795,39.113641</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>80: Sugarland Run Connector</name>
+            <description>Branch: Main&lt;br/&gt;Agency: va-loudoun&lt;br/&gt;EDI: 1.95</description>
+            <styleUrl>#1.5</styleUrl>
+            <LineString>
+                <coordinates>-77.40819,38.99612 -77.406167,38.996764 -77.404547,38.997255 -77.400182,38.99923 -77.395788,38.99847 -77.39009,39.001951 -77.390215,39.005033 -77.394407,39.007009 -77.388461,39.015999 -77.382786,39.012697 -77.380645,39.011173 -77.379709,39.010961 -77.377596,39.010139 -77.373423,39.012782 -77.3755,39.018348 -77.379059,39.020082 -77.390083,39.022444 -77.389506,39.029187 -77.384404,39.035785 -77.379349,39.033274</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>82: Sterling Connector</name>
+            <description>Branch: Main&lt;br/&gt;Agency: va-loudoun&lt;br/&gt;EDI: 1.45</description>
+            <styleUrl>#1.0</styleUrl>
+            <LineString>
+                <coordinates>-77.404547,38.997255 -77.406138,38.99694 -77.408391,38.996227 -77.40978,38.997708 -77.404458,39.002659 -77.409264,39.00457 -77.422798,39.007931 -77.425845,39.008877 -77.428778,39.013885 -77.426529,39.017573 -77.424797,39.02415 -77.422202,39.030743</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>312: Potomac Falls</name>
+            <description>Branch: Main&lt;br/&gt;Agency: va-loudoun&lt;br/&gt;EDI: 1.45</description>
+            <styleUrl>#1.0</styleUrl>
+            <LineString>
+                <coordinates>-77.424699,39.046445 -77.392964,39.035022 -77.382846,39.050066 -77.357189,39.04051 -77.359796,38.953601</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>331: One Loudon</name>
+            <description>Branch: Main&lt;br/&gt;Agency: va-loudoun&lt;br/&gt;EDI: 1.36</description>
+            <styleUrl>#1.0</styleUrl>
+            <LineString>
+                <coordinates>-77.48959,39.004361 -77.454978,39.028892 -77.462154,39.045464 -77.451968,39.043832 -77.453842,39.050759 -77.459105,39.05299</coordinates>
+            </LineString>
+        </Placemark>
+    </Document>
+</kml>

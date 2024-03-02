@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <name>ca-fast routes</name>
+        <Style id="1.0">
+            <LineStyle>
+                <color>ff10c283</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="1.5">
+            <LineStyle>
+                <color>ff195c03</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="2.0">
+            <LineStyle>
+                <color>ffa0ad10</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="2.5">
+            <LineStyle>
+                <color>ffad4902</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="3.0">
+            <LineStyle>
+                <color>ffbf1d7e</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="3.5">
+            <LineStyle>
+                <color>ff6e0cb0</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="4.0">
+            <LineStyle>
+                <color>ff190177</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="10.0">
+            <LineStyle>
+                <color>ff000000</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Placemark>
+            <name>1: FTC - Fairfield Walmart</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ca-fast&lt;br/&gt;EDI: 1.45</description>
+            <styleUrl>#1.0</styleUrl>
+            <LineString>
+                <coordinates>-122.068482,38.24877 -122.064204,38.249166 -122.060228,38.249187 -122.055211,38.249177 -122.052493,38.249167 -122.049779,38.250945 -122.04691,38.251401 -122.043285,38.250796 -122.039288,38.249947 -122.036599,38.249169 -122.03409,38.251716 -122.03409,38.254121 -122.034062,38.259116 -122.03414,38.263883 -122.034061,38.266994 -122.034033,38.269494 -122.034036,38.27179 -122.033977,38.274642 -122.035967,38.27638</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>2: Solano Town Center - Fairfield-Vacaville Station</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ca-fast&lt;br/&gt;EDI: 1.21</description>
+            <styleUrl>#1.0</styleUrl>
+            <LineString>
+                <coordinates>-121.968472,38.285759 -121.988121,38.269244 -121.988148,38.267088 -121.993854,38.265014 -121.999002,38.265064 -122.002004,38.265095 -122.008736,38.265216 -122.013414,38.265285 -122.017804,38.265368 -122.021869,38.265414 -122.025499,38.265475 -122.029341,38.265544 -122.034291,38.263564 -122.034362,38.258816 -122.038544,38.258376 -122.045674,38.258291 -122.054296,38.261942 -122.052712,38.262914</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>3: FTC - Solano Town Center - Fairfield Walmart</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ca-fast&lt;br/&gt;EDI: 1.35</description>
+            <styleUrl>#1.0</styleUrl>
+            <LineString>
+                <coordinates>-122.068482,38.24877 -122.065858,38.258216 -122.057412,38.259915 -122.056485,38.262324 -122.052712,38.262914 -122.046204,38.261068 -122.045151,38.267257 -122.042875,38.270878 -122.034959,38.276245 -122.031499,38.276444 -122.024999,38.278281 -122.025054,38.274615</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>4: Smart &amp;amp; Final - Travis AFB</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ca-fast&lt;br/&gt;EDI: 1.17</description>
+            <styleUrl>#1.0</styleUrl>
+            <LineString>
+                <coordinates>-122.037043,38.278081 -122.034959,38.276245 -122.031499,38.276444 -122.024574,38.279841 -122.012279,38.279709 -122.006657,38.274132 -121.996817,38.264964 -121.992801,38.26492 -121.987883,38.265454 -121.959549,38.271973 -121.950569,38.271791 -121.946208,38.272044 -121.940486,38.27207 -121.935354,38.272066 -121.935912,38.268052</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>6: Solano Town Center - E. Tabor / Sunset</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ca-fast&lt;br/&gt;EDI: 1.78</description>
+            <styleUrl>#1.5</styleUrl>
+            <LineString>
+                <coordinates>-122.020269,38.265314 -122.023239,38.258269 -122.025754,38.258308 -122.029669,38.258295 -122.032122,38.258322 -122.038544,38.258376 -122.0405,38.257207 -122.040579,38.253285 -122.040834,38.251499 -122.043885,38.251541 -122.046368,38.251529 -122.049704,38.253692 -122.049725,38.255934 -122.054296,38.261942 -122.052712,38.262914</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>7: FTC - Solano College - Cordelia Library</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ca-fast&lt;br/&gt;EDI: 1.43</description>
+            <styleUrl>#1.0</styleUrl>
+            <LineString>
+                <coordinates>-122.068482,38.24877 -122.066538,38.244731 -122.067514,38.235974 -122.079467,38.23436 -122.082476,38.234331 -122.083882,38.23719 -122.128789,38.229214 -122.125037,38.234876 -122.125792,38.236419 -122.12914,38.229544 -122.144451,38.21764</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>8: Cordelia Library - Oakbrook Dr</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ca-fast&lt;br/&gt;EDI: 1.73</description>
+            <styleUrl>#1.5</styleUrl>
+            <LineString>
+                <coordinates>-122.144451,38.21764 -122.1374,38.214612 -122.136425,38.216854 -122.127096,38.220095 -122.132393,38.219241 -122.138577,38.20938 -122.142034,38.207156 -122.147226,38.206689 -122.146643,38.197542 -122.140667,38.194934 -122.138257,38.189866 -122.137855,38.180975 -122.132652,38.17876 -122.131129,38.175976 -122.1296,38.173296 -122.132588,38.171498 -122.135615,38.168596</coordinates>
+            </LineString>
+        </Placemark>
+    </Document>
+</kml>

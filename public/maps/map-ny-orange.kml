@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <name>ny-orange routes</name>
+        <Style id="1.0">
+            <LineStyle>
+                <color>ff10c283</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="1.5">
+            <LineStyle>
+                <color>ff195c03</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="2.0">
+            <LineStyle>
+                <color>ffa0ad10</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="2.5">
+            <LineStyle>
+                <color>ffad4902</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="3.0">
+            <LineStyle>
+                <color>ffbf1d7e</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="3.5">
+            <LineStyle>
+                <color>ff6e0cb0</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="4.0">
+            <LineStyle>
+                <color>ff190177</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="10.0">
+            <LineStyle>
+                <color>ff000000</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Placemark>
+            <name>Highland Falls Line</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ny-orange&lt;br/&gt;EDI: 1.09</description>
+            <styleUrl>#1.0</styleUrl>
+            <LineString>
+                <coordinates>-73.986909,41.331524 -73.966101,41.369106 -74.057585,41.457302 -74.074087,41.497415 -74.070744,41.518167</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>Main Line</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ny-orange&lt;br/&gt;EDI: 1.39</description>
+            <styleUrl>#1.0</styleUrl>
+            <LineString>
+                <coordinates>-74.417859,41.448127 -74.380817,41.450525 -74.369215,41.442665 -74.380192,41.454237 -74.369996,41.453466 -74.36229,41.44815 -74.358844,41.451238 -74.318182,41.407495 -74.326128,41.401911 -74.334735,41.396363 -74.340049,41.395077 -74.28325,41.358138 -74.287874,41.357736 -74.28469,41.356318 -74.275208,41.352083 -74.203492,41.344443 -74.189459,41.329211 -74.152795,41.307456 -74.14781,41.317292 -74.123519,41.31817</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>Newburgh Broadway</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ny-orange&lt;br/&gt;EDI: 2.21</description>
+            <styleUrl>#2.0</styleUrl>
+            <LineString>
+                <coordinates>-74.010754,41.500018 -74.015468,41.500339 -74.021364,41.500713 -74.026602,41.501094 -74.058864,41.505412 -74.06334,41.504535 -74.071666,41.524009 -74.070744,41.518167 -74.074087,41.497415 -74.06732,41.498779 -74.068929,41.502851</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>Newburgh Crosstown</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ny-orange&lt;br/&gt;EDI: 1.6</description>
+            <styleUrl>#1.5</styleUrl>
+            <LineString>
+                <coordinates>-74.042275,41.435801 -74.053547,41.430582 -74.059803,41.454503 -74.057585,41.457302 -74.049671,41.456183 -74.037968,41.463877 -74.025112,41.474468 -74.019603,41.488507 -74.021789,41.496789 -74.011127,41.496039 -74.010754,41.500018 -74.009332,41.503933 -74.01517,41.503549</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>Warwick Line</name>
+            <description>Branch: Weekday&lt;br/&gt;Agency: ny-orange&lt;br/&gt;EDI: 2.56</description>
+            <styleUrl>#2.5</styleUrl>
+            <LineString>
+                <coordinates>-74.337767,41.251225 -74.337789,41.25125 -74.339217,41.25504 -74.341257,41.257936 -74.337945,41.252252 -74.34908,41.253689 -74.35167,41.253393 -74.355583,41.254269 -74.358566,41.256512 -74.357577,41.259271 -74.357986,41.260999 -74.365045,41.264278 -74.366848,41.262677 -74.359654,41.261435 -74.359793,41.258139 -74.360879,41.257584 -74.362318,41.256736 -74.369235,41.257011 -74.368123,41.256828 -74.366288,41.256627 -74.360025,41.254921 -74.380099,41.240152 -74.381161,41.236142</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>Warwick Line</name>
+            <description>Branch: Sunday&lt;br/&gt;Agency: ny-orange&lt;br/&gt;EDI: 2.72</description>
+            <styleUrl>#2.5</styleUrl>
+            <LineString>
+                <coordinates>-74.337767,41.251225 -74.337789,41.25125 -74.339217,41.25504 -74.341257,41.257936 -74.337945,41.252252 -74.34908,41.253689 -74.35167,41.253393 -74.355583,41.254269 -74.358566,41.256512 -74.357577,41.259271 -74.357986,41.260999 -74.360991,41.263407 -74.365045,41.264278 -74.366848,41.262677 -74.359654,41.261435 -74.360879,41.257584 -74.362318,41.256736 -74.369235,41.257011 -74.368123,41.256828 -74.366288,41.256627 -74.387105,41.255696 -74.380099,41.240152 -74.381161,41.236142</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>Warwick-Wallkill Line</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ny-orange&lt;br/&gt;EDI: 1.18</description>
+            <styleUrl>#1.0</styleUrl>
+            <LineString>
+                <coordinates>-74.296041,41.223303 -74.359676,41.256994 -74.358565,41.340159 -74.334735,41.396363 -74.37854,41.454222 -74.380192,41.454237 -74.377428,41.450125 -74.369996,41.453466</coordinates>
+            </LineString>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <name>wa-sound routes</name>
+        <Style id="1.0">
+            <LineStyle>
+                <color>ff10c283</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="1.5">
+            <LineStyle>
+                <color>ff195c03</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="2.0">
+            <LineStyle>
+                <color>ffa0ad10</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="2.5">
+            <LineStyle>
+                <color>ffad4902</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="3.0">
+            <LineStyle>
+                <color>ffbf1d7e</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="3.5">
+            <LineStyle>
+                <color>ff6e0cb0</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="4.0">
+            <LineStyle>
+                <color>ff190177</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="10.0">
+            <LineStyle>
+                <color>ff000000</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Placemark>
+            <name>1 Line: Northgate - Angle Lake</name>
+            <description>Branch: Main&lt;br/&gt;Agency: wa-sound&lt;br/&gt;EDI: 1.11</description>
+            <styleUrl>#1.0</styleUrl>
+            <LineString>
+                <coordinates>-122.32832,47.702662 -122.316041,47.676107 -122.314194,47.659875 -122.303795,47.649349 -122.320389,47.61956 -122.337532,47.61145 -122.335754,47.607246 -122.331055,47.602139 -122.328217,47.59766 -122.327354,47.591824 -122.327522,47.579952 -122.311279,47.579124 -122.297737,47.576439 -122.292389,47.559025 -122.281471,47.537529 -122.279587,47.522266 -122.288399,47.464272 -122.297028,47.444969 -122.297958,47.422154</coordinates>
+            </LineString>
+        </Placemark>
+    </Document>
+</kml>

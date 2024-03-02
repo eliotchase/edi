@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <name>ca-culver routes</name>
+        <Style id="1.0">
+            <LineStyle>
+                <color>ff10c283</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="1.5">
+            <LineStyle>
+                <color>ff195c03</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="2.0">
+            <LineStyle>
+                <color>ffa0ad10</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="2.5">
+            <LineStyle>
+                <color>ffad4902</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="3.0">
+            <LineStyle>
+                <color>ffbf1d7e</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="3.5">
+            <LineStyle>
+                <color>ff6e0cb0</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="4.0">
+            <LineStyle>
+                <color>ff190177</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="10.0">
+            <LineStyle>
+                <color>ff000000</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Placemark>
+            <name>1: Washington Blvd</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ca-culver&lt;br/&gt;EDI: 1.14</description>
+            <styleUrl>#1.0</styleUrl>
+            <LineString>
+                <coordinates>-118.369361,34.03472 -118.37355,34.03295 -118.374962,34.032348 -118.379422,34.031053 -118.381659,34.030466 -118.384132,34.02972 -118.387315,34.02783 -118.390662,34.025813 -118.391988,34.025056 -118.394293,34.024349 -118.39585,34.022371 -118.398853,34.020976 -118.400346,34.020062 -118.40533,34.017083 -118.406664,34.015967 -118.409509,34.013363 -118.410261,34.012339 -118.411808,34.009543 -118.41326,34.006963 -118.414855,34.004059 -118.416463,34.001121 -118.418411,33.999663 -118.422726,33.99772 -118.425825,33.99738 -118.429047,33.99705 -118.434209,33.996997 -118.436495,33.99624 -118.438143,33.995412 -118.442619,33.99319 -118.445775,33.991593 -118.448435,33.990269 -118.452592,33.988081 -118.454788,33.986723 -118.457357,33.9851 -118.461357,33.982544 -118.463439,33.981239 -118.465281,33.980104 -118.469793,33.984812 -118.471525,33.987966</coordinates>
+            </LineString>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <name>qc-rtc routes</name>
+        <Style id="1.0">
+            <LineStyle>
+                <color>ff10c283</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="1.5">
+            <LineStyle>
+                <color>ff195c03</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="2.0">
+            <LineStyle>
+                <color>ffa0ad10</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="2.5">
+            <LineStyle>
+                <color>ffad4902</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="3.0">
+            <LineStyle>
+                <color>ffbf1d7e</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="3.5">
+            <LineStyle>
+                <color>ff6e0cb0</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="4.0">
+            <LineStyle>
+                <color>ff190177</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="10.0">
+            <LineStyle>
+                <color>ff000000</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Placemark>
+            <name>1: Station Belvédère - Gare fluviale / Cap-Blanc</name>
+            <description>Branch: Main&lt;br/&gt;Agency: qc-rtc&lt;br/&gt;EDI: 4.81</description>
+            <styleUrl>#4.0</styleUrl>
+            <LineString>
+                <coordinates>-71.24041,46.796825 -71.244122,46.79905 -71.24276,46.800048 -71.244444,46.801495 -71.241133,46.804638 -71.24455,46.807584 -71.246052,46.808861 -71.245544,46.810007 -71.243352,46.810705 -71.240853,46.810964 -71.23881,46.811976 -71.235389,46.811917 -71.233404,46.811462 -71.229646,46.811621 -71.228041,46.812135 -71.225824,46.812923 -71.224272,46.813482 -71.220972,46.814609 -71.217945,46.815636 -71.215113,46.816499 -71.211696,46.81679 -71.208256,46.817279 -71.205132,46.816876 -71.202572,46.816809 -71.201912,46.814997 -71.202425,46.812304 -71.203406,46.810175 -71.205451,46.805205 -71.207601,46.803303 -71.208705,46.802567 -71.211695,46.801775 -71.213532,46.80099 -71.215689,46.799699 -71.216921,46.798702 -71.218671,46.798313</coordinates>
+            </LineString>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <name>bc-translink routes</name>
+        <Style id="1.0">
+            <LineStyle>
+                <color>ff10c283</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="1.5">
+            <LineStyle>
+                <color>ff195c03</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="2.0">
+            <LineStyle>
+                <color>ffa0ad10</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="2.5">
+            <LineStyle>
+                <color>ffad4902</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="3.0">
+            <LineStyle>
+                <color>ffbf1d7e</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="3.5">
+            <LineStyle>
+                <color>ff6e0cb0</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="4.0">
+            <LineStyle>
+                <color>ff190177</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="10.0">
+            <LineStyle>
+                <color>ff000000</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Placemark>
+            <name>322: Newton Exchange / Scottsdale</name>
+            <description>Branch: Main&lt;br/&gt;Agency: bc-translink&lt;br/&gt;EDI: 4.34</description>
+            <styleUrl>#4.0</styleUrl>
+            <LineString>
+                <coordinates>-122.842704,49.133098 -122.847036,49.13365 -122.851646,49.133727 -122.856828,49.133345 -122.856806,49.130842 -122.856787,49.128907 -122.856703,49.126083 -122.856674,49.12187 -122.856668,49.118373 -122.856667,49.115074 -122.856745,49.111611 -122.855763,49.108083 -122.850547,49.108105 -122.845659,49.106948 -122.846078,49.105198 -122.852736,49.104571 -122.857698,49.104605 -122.863894,49.10451 -122.867495,49.104514 -122.875726,49.10446 -122.879685,49.103874 -122.882521,49.103437 -122.886411,49.102959 -122.890274,49.104989 -122.890294,49.107529 -122.879043,49.108911 -122.879004,49.111528 -122.872683,49.111737 -122.867704,49.112064 -122.867704,49.116187 -122.867702,49.119475 -122.867677,49.123152 -122.867653,49.126877 -122.867682,49.129721 -122.867696,49.132255 -122.868518,49.13399 -122.873867,49.134014 -122.879754,49.134034 -122.883912,49.134092 -122.887792,49.137661</coordinates>
+            </LineString>
+        </Placemark>
+    </Document>
+</kml>

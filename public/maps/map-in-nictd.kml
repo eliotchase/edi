@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <name>in-nictd routes</name>
+        <Style id="1.0">
+            <LineStyle>
+                <color>ff10c283</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="1.5">
+            <LineStyle>
+                <color>ff195c03</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="2.0">
+            <LineStyle>
+                <color>ffa0ad10</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="2.5">
+            <LineStyle>
+                <color>ffad4902</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="3.0">
+            <LineStyle>
+                <color>ffbf1d7e</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="3.5">
+            <LineStyle>
+                <color>ff6e0cb0</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="4.0">
+            <LineStyle>
+                <color>ff190177</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="10.0">
+            <LineStyle>
+                <color>ff000000</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Placemark>
+            <name>South Shore Line</name>
+            <description>Branch: Main&lt;br/&gt;Agency: in-nictd&lt;br/&gt;EDI: 1.21</description>
+            <styleUrl>#1.0</styleUrl>
+            <LineString>
+                <coordinates>-87.623056,41.884167 -87.623056,41.876944 -87.621389,41.868611 -87.616389,41.851389 -87.587501,41.793333 -87.590556,41.780278 -87.543468,41.646189 -87.515564,41.631008 -87.479299,41.611781 -87.394241,41.605503 -87.337921,41.604727 -87.267972,41.597858 -87.186869,41.617331 -87.060817,41.644902 -86.985521,41.673214 -86.867686,41.713266 -86.537663,41.709454 -86.310951,41.700761</coordinates>
+            </LineString>
+        </Placemark>
+    </Document>
+</kml>

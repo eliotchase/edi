@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <name>ma-gatra routes</name>
+        <Style id="1.0">
+            <LineStyle>
+                <color>ff10c283</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="1.5">
+            <LineStyle>
+                <color>ff195c03</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="2.0">
+            <LineStyle>
+                <color>ffa0ad10</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="2.5">
+            <LineStyle>
+                <color>ffad4902</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="3.0">
+            <LineStyle>
+                <color>ffbf1d7e</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="3.5">
+            <LineStyle>
+                <color>ff6e0cb0</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="4.0">
+            <LineStyle>
+                <color>ff190177</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="10.0">
+            <LineStyle>
+                <color>ff000000</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Placemark>
+            <name>2: Broadway / Market Basket</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ma-gatra&lt;br/&gt;EDI: 1.16</description>
+            <styleUrl>#1.0</styleUrl>
+            <LineString>
+                <coordinates>-71.10096,41.90106 -71.094179,41.905669 -71.090675,41.920805 -71.083157,41.937461 -71.084923,41.935346</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>5: Walmart / E. Taunton / Target</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ma-gatra&lt;br/&gt;EDI: 1.59</description>
+            <styleUrl>#1.5</styleUrl>
+            <LineString>
+                <coordinates>-71.033165,41.903635 -71.02619,41.897 -71.028717,41.882779 -71.06703,41.884953 -71.06855,41.87788</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>6: Whittenton</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ma-gatra&lt;br/&gt;EDI: 2.5</description>
+            <styleUrl>#2.5</styleUrl>
+            <LineString>
+                <coordinates>-71.10096,41.90106 -71.070625,41.900761 -71.094179,41.905669 -71.098049,41.922901 -71.099636,41.928388 -71.115241,41.946324 -71.116587,41.956522 -71.11775,41.95914 -71.132516,41.942204</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>7: School St / Route 44</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ma-gatra&lt;br/&gt;EDI: 1.53</description>
+            <styleUrl>#1.5</styleUrl>
+            <LineString>
+                <coordinates>-71.10096,41.90106 -71.09408,41.90137 -71.088652,41.909158 -71.08299,41.913611 -71.07448,41.90461 -71.062517,41.906796 -71.070625,41.900761 -71.045484,41.904882 -71.033165,41.903635</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>8: County St / Target</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ma-gatra&lt;br/&gt;EDI: 1.82</description>
+            <styleUrl>#1.5</styleUrl>
+            <LineString>
+                <coordinates>-71.10096,41.90106 -71.09408,41.90137 -71.089086,41.901116 -71.088785,41.887136 -71.088382,41.885458 -71.08124,41.88192 -71.066593,41.884415 -71.064889,41.880753 -71.059767,41.875446 -71.064187,41.87894 -71.06855,41.87788</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>10: Attleboro / North Attleboro</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ma-gatra&lt;br/&gt;EDI: 2.07</description>
+            <styleUrl>#2.0</styleUrl>
+            <LineString>
+                <coordinates>-71.28519,41.941473 -71.28432,41.944789 -71.29805,41.962032 -71.300191,41.970185 -71.30751,41.969362 -71.31292,41.97078 -71.320146,41.974711 -71.324034,41.978316 -71.33209,41.981903 -71.332593,41.979597 -71.332872,41.971885 -71.337902,41.967267 -71.349024,41.945936</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>11: South Attleboro Connector</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ma-gatra&lt;br/&gt;EDI: 1.5</description>
+            <styleUrl>#1.5</styleUrl>
+            <LineString>
+                <coordinates>-71.352759,41.899014 -71.374228,41.904056 -71.37619,41.90543 -71.362388,41.911475 -71.358561,41.919557 -71.358005,41.924431 -71.349625,41.933606 -71.352057,41.940021 -71.348891,41.941136 -71.347197,41.94544 -71.349024,41.945936</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>12: Attleboro / South Attleboro</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ma-gatra&lt;br/&gt;EDI: 1.85</description>
+            <styleUrl>#1.5</styleUrl>
+            <LineString>
+                <coordinates>-71.28519,41.941473 -71.29969,41.934354 -71.315818,41.933967 -71.323521,41.933536 -71.356745,41.920377 -71.35907,41.922009 -71.358005,41.924431 -71.349625,41.933606 -71.348891,41.941136 -71.347197,41.94544 -71.349024,41.945936</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>14: North Attleboro / Plainville</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ma-gatra&lt;br/&gt;EDI: 1.65</description>
+            <styleUrl>#1.5</styleUrl>
+            <LineString>
+                <coordinates>-71.28519,41.941473 -71.281554,41.943769 -71.28432,41.944789 -71.300191,41.970185 -71.30751,41.969362 -71.320146,41.974711 -71.33209,41.981903 -71.332593,41.979597 -71.329423,41.99341 -71.335525,42.005996 -71.30574,42.00867</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>15: Sturdy Hospital / La Salette</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ma-gatra&lt;br/&gt;EDI: 1.15</description>
+            <styleUrl>#1.0</styleUrl>
+            <LineString>
+                <coordinates>-71.28519,41.941473 -71.281554,41.943769 -71.276771,41.941355 -71.261669,41.934088 -71.260377,41.931228</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>16: Seekonk / Attleboro</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ma-gatra&lt;br/&gt;EDI: 1.24</description>
+            <styleUrl>#1.0</styleUrl>
+            <LineString>
+                <coordinates>-71.28519,41.941473 -71.286164,41.935844 -71.285076,41.934275 -71.29871,41.920071 -71.320872,41.901788 -71.33932,41.889776 -71.352759,41.899014</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>18: Taunton / Norton / Attleboro</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ma-gatra&lt;br/&gt;EDI: 1.24</description>
+            <styleUrl>#1.0</styleUrl>
+            <LineString>
+                <coordinates>-71.28519,41.941473 -71.281554,41.943769 -71.278159,41.948093 -71.274013,41.94847 -71.2721,41.95141 -71.27059,41.95222 -71.242098,41.953568 -71.23657,41.95173 -71.22725,41.95061 -71.20073,41.96074 -71.198693,41.961481 -71.19011,41.96494 -71.18715,41.96648 -71.15575,41.932752 -71.125063,41.910995 -71.100759,41.902927 -71.10096,41.90106</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>Link 1: Wareham / Onset / Wareham</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ma-gatra&lt;br/&gt;EDI: 1.97</description>
+            <styleUrl>#1.5</styleUrl>
+            <LineString>
+                <coordinates>-70.734974,41.750553 -70.735351,41.747056 -70.721161,41.74226 -70.728845,41.75929 -70.714462,41.757407 -70.705442,41.758424 -70.659308,41.74227 -70.664333,41.758105</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>Link 2: Cranberry Plaza to Buzzards Bay</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ma-gatra&lt;br/&gt;EDI: 1.83</description>
+            <styleUrl>#1.5</styleUrl>
+            <LineString>
+                <coordinates>-70.639956,41.786944 -70.664333,41.758105 -70.658846,41.741839 -70.615781,41.745158</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>Link 4: Cranberry Plaza to West Wareham</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ma-gatra&lt;br/&gt;EDI: 1.1</description>
+            <styleUrl>#1.0</styleUrl>
+            <LineString>
+                <coordinates>-70.599239,41.750999 -70.658846,41.741839 -70.664333,41.758105 -70.725117,41.767267 -70.730417,41.773985 -70.746175,41.779434 -70.742362,41.77906 -70.774295,41.801142 -70.834696,41.828295 -70.918372,41.878225</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>Manomet / Cedarville Deviated Link</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ma-gatra&lt;br/&gt;EDI: 1.04</description>
+            <styleUrl>#1.0</styleUrl>
+            <LineString>
+                <coordinates>-70.55726,41.91559 -70.540003,41.889557 -70.541724,41.844953 -70.552349,41.818052</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>Mayflower Link</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ma-gatra&lt;br/&gt;EDI: 1.97</description>
+            <styleUrl>#1.5</styleUrl>
+            <LineString>
+                <coordinates>-70.668122,41.96005 -70.664016,41.955734 -70.657567,41.942952 -70.653444,41.944493 -70.662406,41.935917 -70.656749,41.925902 -70.65421,41.928213 -70.645656,41.942057 -70.626524,41.937909 -70.570375,41.924313 -70.576638,41.904025 -70.554327,41.928403 -70.55726,41.91559</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>Downtown Middleborough Shuttle</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ma-gatra&lt;br/&gt;EDI: 1.79</description>
+            <styleUrl>#1.5</styleUrl>
+            <LineString>
+                <coordinates>-70.899684,41.878258 -70.918372,41.878225 -70.905925,41.890231 -70.915061,41.897604 -70.941107,41.893801 -70.953795,41.900392 -70.950736,41.89618</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>Middleborough - Taunton Connection</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ma-gatra&lt;br/&gt;EDI: 1.04</description>
+            <styleUrl>#1.0</styleUrl>
+            <LineString>
+                <coordinates>-70.864762,41.908706 -70.910653,41.891479 -71.033165,41.903635 -71.060635,41.905022 -71.094179,41.905669 -71.099164,41.901751 -71.10096,41.90106</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>Medway T Shuttle</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ma-gatra&lt;br/&gt;EDI: 1.01</description>
+            <styleUrl>#1.0</styleUrl>
+            <LineString>
+                <coordinates>-71.406549,42.145958 -71.397411,42.140075 -71.325579,42.120403</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>SAIL: Marshfield / Duxbury / Kingston</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ma-gatra&lt;br/&gt;EDI: 1.88</description>
+            <styleUrl>#1.5</styleUrl>
+            <LineString>
+                <coordinates>-70.715185,41.969055 -70.722128,41.977437 -70.730511,41.998845 -70.732086,42.007288 -70.724588,42.017444 -70.685936,42.025737 -70.684549,42.025104 -70.683187,42.046432 -70.690723,42.058319 -70.678488,42.078171 -70.650574,42.080807 -70.646815,42.091456 -70.688912,42.094709 -70.707304,42.089967 -70.740366,42.104481 -70.772149,42.106185</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>Wareham - New Bedford Connection</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ma-gatra&lt;br/&gt;EDI: 1.1</description>
+            <styleUrl>#1.0</styleUrl>
+            <LineString>
+                <coordinates>-70.927938,41.635806 -70.885049,41.654478 -70.812609,41.663757 -70.769996,41.715199 -70.728845,41.75929 -70.722965,41.759484 -70.664333,41.758105</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>Wareham - Plymouth Connection</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ma-gatra&lt;br/&gt;EDI: 1.75</description>
+            <styleUrl>#1.5</styleUrl>
+            <LineString>
+                <coordinates>-70.711317,41.949015 -70.7177,41.954944 -70.765586,41.885706 -70.772239,41.80117 -70.639956,41.786944 -70.676561,41.756255 -70.658846,41.741839 -70.599239,41.750999</coordinates>
+            </LineString>
+        </Placemark>
+    </Document>
+</kml>

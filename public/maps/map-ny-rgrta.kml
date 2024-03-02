@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <name>ny-rgrta routes</name>
+        <Style id="1.0">
+            <LineStyle>
+                <color>ff10c283</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="1.5">
+            <LineStyle>
+                <color>ff195c03</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="2.0">
+            <LineStyle>
+                <color>ffa0ad10</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="2.5">
+            <LineStyle>
+                <color>ffad4902</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="3.0">
+            <LineStyle>
+                <color>ffbf1d7e</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="3.5">
+            <LineStyle>
+                <color>ff6e0cb0</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="4.0">
+            <LineStyle>
+                <color>ff190177</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="10.0">
+            <LineStyle>
+                <color>ff000000</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Placemark>
+            <name>1: St. Paul</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ny-rgrta&lt;br/&gt;EDI: 1.34</description>
+            <styleUrl>#1.0</styleUrl>
+            <LineString>
+                <coordinates>-77.601046,43.20895 -77.602127,43.210642 -77.603306,43.210623 -77.606223,43.210499 -77.613011,43.210003 -77.61515,43.207725 -77.617222,43.205524 -77.61785,43.204864 -77.618986,43.201883 -77.618299,43.199809 -77.617616,43.197106 -77.61814,43.195089 -77.618117,43.192599 -77.618662,43.190445 -77.619552,43.189473 -77.622431,43.186784 -77.624812,43.184388 -77.62505,43.183028 -77.625296,43.181226 -77.625208,43.179478 -77.625158,43.177728 -77.623352,43.173144 -77.622024,43.171941 -77.620143,43.170185 -77.618568,43.168902 -77.617152,43.16743 -77.614374,43.164938 -77.612492,43.163195 -77.608229,43.158185</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>2: North Clinton</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ny-rgrta&lt;br/&gt;EDI: 1.18</description>
+            <styleUrl>#1.0</styleUrl>
+            <LineString>
+                <coordinates>-77.601046,43.20895 -77.602127,43.210642 -77.603306,43.210623 -77.606223,43.210499 -77.608717,43.209739 -77.60862,43.208492 -77.60896,43.206577 -77.612863,43.204627 -77.612758,43.202069 -77.61262,43.199193 -77.612534,43.197145 -77.612451,43.196215 -77.612457,43.195273 -77.612677,43.192755 -77.613368,43.189248 -77.613899,43.186069 -77.613792,43.183741 -77.613788,43.182133 -77.613672,43.179584 -77.613548,43.17768 -77.61335,43.17542 -77.611993,43.170348 -77.611057,43.168142 -77.609658,43.164911 -77.60882,43.162868 -77.608229,43.158185</coordinates>
+            </LineString>
+        </Placemark>
+    </Document>
+</kml>

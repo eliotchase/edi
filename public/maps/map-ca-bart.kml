@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <name>ca-bart routes</name>
+        <Style id="1.0">
+            <LineStyle>
+                <color>ff10c283</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="1.5">
+            <LineStyle>
+                <color>ff195c03</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="2.0">
+            <LineStyle>
+                <color>ffa0ad10</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="2.5">
+            <LineStyle>
+                <color>ffad4902</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="3.0">
+            <LineStyle>
+                <color>ffbf1d7e</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="3.5">
+            <LineStyle>
+                <color>ff6e0cb0</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="4.0">
+            <LineStyle>
+                <color>ff190177</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="10.0">
+            <LineStyle>
+                <color>ff000000</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Placemark>
+            <name>Blue Line</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ca-bart&lt;br/&gt;EDI: 1.21</description>
+            <styleUrl>#1.0</styleUrl>
+            <LineString>
+                <coordinates>-121.899242,37.701692 -121.928301,37.69976 -122.075615,37.690776 -122.126431,37.696938 -122.160713,37.721806 -122.196698,37.753604 -122.224067,37.774873 -122.265232,37.797357 -122.295144,37.804923 -122.39708,37.792789 -122.401642,37.789213 -122.407387,37.784645 -122.413879,37.77945 -122.419755,37.765176 -122.418518,37.752422 -122.433557,37.733269 -122.44751,37.721758 -122.468994,37.706304</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>Yellow Line</name>
+            <description>Branch: eBART&lt;br/&gt;Agency: ca-bart&lt;br/&gt;EDI: 1.0</description>
+            <styleUrl>#1.0</styleUrl>
+            <LineString>
+                <coordinates>-121.944248,38.01895 -121.889011,38.016873 -121.780353,37.995415</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>Green Line</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ca-bart&lt;br/&gt;EDI: 1.3</description>
+            <styleUrl>#1.0</styleUrl>
+            <LineString>
+                <coordinates>-121.874661,37.368495 -121.890803,37.409836 -121.939358,37.502307 -121.976605,37.557513 -122.01723,37.590765 -122.057158,37.634363 -122.086941,37.669731 -122.126431,37.696938 -122.160713,37.721806 -122.196698,37.753604 -122.224067,37.774873 -122.265232,37.797357 -122.295144,37.804923 -122.39708,37.792789 -122.401642,37.789213 -122.407387,37.784645 -122.413879,37.77945 -122.419755,37.765176 -122.418518,37.752422 -122.433557,37.733269 -122.44751,37.721758 -122.468994,37.706304</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>Orange Line</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ca-bart&lt;br/&gt;EDI: 1.05</description>
+            <styleUrl>#1.0</styleUrl>
+            <LineString>
+                <coordinates>-122.353004,37.936795 -122.316868,37.925205 -122.298895,37.902633 -122.283508,37.874032 -122.268078,37.870117 -122.26975,37.853069 -122.267163,37.828814 -122.268722,37.80806 -122.271589,37.803471 -122.265232,37.797357 -122.224067,37.774873 -122.196698,37.753604 -122.160713,37.721806 -122.126431,37.696938 -122.086941,37.669731 -122.057158,37.634363 -122.01723,37.590765 -121.976605,37.557513 -121.939358,37.502307 -121.890803,37.409836 -121.874661,37.368495</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>Red Line</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ca-bart&lt;br/&gt;EDI: 1.62</description>
+            <styleUrl>#1.5</styleUrl>
+            <LineString>
+                <coordinates>-122.353004,37.936795 -122.316868,37.925205 -122.298895,37.902633 -122.283508,37.874032 -122.268078,37.870117 -122.26975,37.853069 -122.267163,37.828814 -122.268722,37.80806 -122.271589,37.803471 -122.295144,37.804923 -122.39708,37.792789 -122.401642,37.789213 -122.407387,37.784645 -122.413879,37.77945 -122.419755,37.765176 -122.418518,37.752422 -122.433557,37.733269 -122.44751,37.721758 -122.468994,37.706304 -122.466167,37.684642 -122.444254,37.664437 -122.416384,37.63772 -122.38684,37.600199 -122.391895,37.616023</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>Yellow Line</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ca-bart&lt;br/&gt;EDI: 1.3</description>
+            <styleUrl>#1.0</styleUrl>
+            <LineString>
+                <coordinates>-121.944248,38.01895 -122.024561,38.003407 -122.029126,37.973773 -122.056015,37.928463 -122.067379,37.905812 -122.124644,37.89322 -122.183717,37.878503 -122.251271,37.844795 -122.267163,37.828814 -122.268722,37.80806 -122.271589,37.803471 -122.295144,37.804923 -122.39708,37.792789 -122.401642,37.789213 -122.407387,37.784645 -122.413879,37.77945 -122.419755,37.765176 -122.418518,37.752422 -122.433557,37.733269 -122.44751,37.721758 -122.468994,37.706304 -122.466167,37.684642 -122.444254,37.664437 -122.416384,37.63772 -122.391895,37.616023</coordinates>
+            </LineString>
+        </Placemark>
+    </Document>
+</kml>

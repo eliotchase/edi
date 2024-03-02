@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <name>nj-tiger routes</name>
+        <Style id="1.0">
+            <LineStyle>
+                <color>ff10c283</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="1.5">
+            <LineStyle>
+                <color>ff195c03</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="2.0">
+            <LineStyle>
+                <color>ffa0ad10</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="2.5">
+            <LineStyle>
+                <color>ffad4902</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="3.0">
+            <LineStyle>
+                <color>ffbf1d7e</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="3.5">
+            <LineStyle>
+                <color>ff6e0cb0</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="4.0">
+            <LineStyle>
+                <color>ff190177</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="10.0">
+            <LineStyle>
+                <color>ff000000</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Placemark>
+            <name>1: Grad College - Stadium Dr Garage</name>
+            <description>Branch: Main&lt;br/&gt;Agency: nj-tiger&lt;br/&gt;EDI: 1.51</description>
+            <styleUrl>#1.5</styleUrl>
+            <LineString>
+                <coordinates>-74.66462,40.340707 -74.661835,40.347005 -74.658721,40.349936 -74.655536,40.348448 -74.653182,40.345361 -74.645581,40.344688</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>2: Lawrence / Lakeside - EQuad</name>
+            <description>Branch: Main&lt;br/&gt;Agency: nj-tiger&lt;br/&gt;EDI: 1.19</description>
+            <styleUrl>#1.0</styleUrl>
+            <LineString>
+                <coordinates>-74.656848,40.333283 -74.655902,40.336543 -74.654625,40.337587 -74.653182,40.345361 -74.655536,40.348448 -74.654155,40.351285 -74.651992,40.350574</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>3: Merwick - Forrestal PPPL</name>
+            <description>Branch: Main&lt;br/&gt;Agency: nj-tiger&lt;br/&gt;EDI: 1.18</description>
+            <styleUrl>#1.0</styleUrl>
+            <LineString>
+                <coordinates>-74.665908,40.353101 -74.658721,40.349936 -74.655536,40.348448 -74.653182,40.345361 -74.620853,40.33931 -74.61544,40.345557 -74.604188,40.35095</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>4: Princeton Junction - Stadium Dr Garage</name>
+            <description>Branch: Main&lt;br/&gt;Agency: nj-tiger&lt;br/&gt;EDI: 1.82</description>
+            <styleUrl>#1.5</styleUrl>
+            <LineString>
+                <coordinates>-74.625436,40.316378 -74.637161,40.321413 -74.655902,40.336543 -74.658818,40.342125 -74.661835,40.347005 -74.658721,40.349936 -74.655536,40.348448 -74.653182,40.345361 -74.645581,40.344688</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>W-S: Weekend Shopper</name>
+            <description>Branch: Main&lt;br/&gt;Agency: nj-tiger&lt;br/&gt;EDI: 1.35</description>
+            <styleUrl>#1.0</styleUrl>
+            <LineString>
+                <coordinates>-74.675024,40.305298 -74.661257,40.310325 -74.656848,40.333283 -74.655902,40.336543 -74.654625,40.337587 -74.658818,40.342125 -74.66462,40.340707 -74.661835,40.347005 -74.658721,40.349936 -74.654155,40.351285 -74.651992,40.350574</coordinates>
+            </LineString>
+        </Placemark>
+    </Document>
+</kml>

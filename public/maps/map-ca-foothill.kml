@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <name>ca-foothill routes</name>
+        <Style id="1.0">
+            <LineStyle>
+                <color>ff10c283</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="1.5">
+            <LineStyle>
+                <color>ff195c03</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="2.0">
+            <LineStyle>
+                <color>ffa0ad10</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="2.5">
+            <LineStyle>
+                <color>ffad4902</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="3.0">
+            <LineStyle>
+                <color>ffbf1d7e</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="3.5">
+            <LineStyle>
+                <color>ff6e0cb0</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="4.0">
+            <LineStyle>
+                <color>ff190177</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="10.0">
+            <LineStyle>
+                <color>ff000000</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Placemark>
+            <name>Silver Streak: Monclair - Ponoma - El Monte - LA</name>
+            <description>Branch: Main&lt;br/&gt;Agency: ca-foothill&lt;br/&gt;EDI: 1.04</description>
+            <styleUrl>#1.0</styleUrl>
+            <LineString>
+                <coordinates>-117.694932,34.094501 -117.75141,34.059396 -117.906536,34.072337 -117.927016,34.069302 -117.929815,34.068646 -117.939883,34.070134 -117.959866,34.070698 -118.044371,34.072235 -118.168532,34.062856 -118.210615,34.055466 -118.233009,34.053974 -118.238996,34.05521 -118.243506,34.054068 -118.245363,34.053586 -118.246908,34.054593 -118.250116,34.05437 -118.254145,34.050036 -118.256889,34.047069 -118.259718,34.044045 -118.265656,34.041523</coordinates>
+            </LineString>
+        </Placemark>
+    </Document>
+</kml>

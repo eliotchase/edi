@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <name>pa-uppermerion routes</name>
+        <Style id="1.0">
+            <LineStyle>
+                <color>ff10c283</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="1.5">
+            <LineStyle>
+                <color>ff195c03</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="2.0">
+            <LineStyle>
+                <color>ffa0ad10</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="2.5">
+            <LineStyle>
+                <color>ffad4902</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="3.0">
+            <LineStyle>
+                <color>ffbf1d7e</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="3.5">
+            <LineStyle>
+                <color>ff6e0cb0</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="4.0">
+            <LineStyle>
+                <color>ff190177</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Style id="10.0">
+            <LineStyle>
+                <color>ff000000</color>
+                <width>4.0</width>
+            </LineStyle>
+        </Style>
+        <Placemark>
+            <name>Upper Merion Rambler</name>
+            <description>Branch: Main&lt;br/&gt;Agency: pa-uppermerion&lt;br/&gt;EDI: 6.55</description>
+            <styleUrl>#4.0</styleUrl>
+            <LineString>
+                <coordinates>-75.379879,40.101158 -75.375555,40.097106 -75.371483,40.102478 -75.371455,40.105012 -75.368183,40.106002 -75.371083,40.106616 -75.375363,40.110676 -75.379871,40.111142 -75.385382,40.105654 -75.381938,40.103613 -75.39141,40.102172 -75.398649,40.103889 -75.39824,40.108783 -75.412823,40.104681 -75.417199,40.105543 -75.416157,40.096218 -75.407346,40.08807 -75.406091,40.083506 -75.402131,40.084189 -75.3864,40.075082 -75.399407,40.083728 -75.397697,40.086659 -75.397665,40.092415 -75.392732,40.089473 -75.385939,40.090351 -75.383689,40.089687 -75.392384,40.097013 -75.376299,40.087192 -75.36729,40.090913 -75.371009,40.092883 -75.365783,40.09446 -75.359086,40.095006 -75.358259,40.091724 -75.359144,40.078977 -75.33128,40.08771 -75.330208,40.103187</coordinates>
+            </LineString>
+        </Placemark>
+    </Document>
+</kml>
